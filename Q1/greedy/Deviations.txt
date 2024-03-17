@@ -1,0 +1,4800 @@
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+-0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+-0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+-0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+-0.000000
+Number of Vertices:3
+-0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:3
+0.000000
+Number of Vertices:4
+67.052218
+Number of Vertices:4
+116.498927
+Number of Vertices:4
+162.049375
+Number of Vertices:4
+56.035703
+Number of Vertices:4
+21.954498
+Number of Vertices:4
+26.907248
+Number of Vertices:4
+115.965512
+Number of Vertices:4
+146.000000
+Number of Vertices:4
+18.973666
+Number of Vertices:4
+30.970598
+Number of Vertices:4
+18.248288
+Number of Vertices:4
+68.690899
+Number of Vertices:4
+108.683025
+Number of Vertices:4
+121.622366
+Number of Vertices:4
+90.553851
+Number of Vertices:4
+164.584325
+Number of Vertices:4
+80.622577
+Number of Vertices:4
+114.017543
+Number of Vertices:4
+68.249542
+Number of Vertices:4
+132.196823
+Number of Vertices:4
+43.840620
+Number of Vertices:4
+167.904735
+Number of Vertices:4
+21.118458
+Number of Vertices:4
+9.486833
+Number of Vertices:4
+47.518417
+Number of Vertices:4
+-5.546544
+Number of Vertices:4
+55.000000
+Number of Vertices:4
+17.117243
+Number of Vertices:4
+56.847085
+Number of Vertices:4
+22.847319
+Number of Vertices:4
+71.944071
+Number of Vertices:4
+0.477628
+Number of Vertices:4
+35.500698
+Number of Vertices:4
+53.310412
+Number of Vertices:4
+12.701750
+Number of Vertices:4
+99.458534
+Number of Vertices:4
+125.936492
+Number of Vertices:4
+84.453311
+Number of Vertices:4
+144.346805
+Number of Vertices:4
+79.924965
+Number of Vertices:4
+-29.444422
+Number of Vertices:4
+28.039822
+Number of Vertices:4
+36.124784
+Number of Vertices:4
+34.525353
+Number of Vertices:4
+23.323808
+Number of Vertices:4
+37.802116
+Number of Vertices:4
+105.394497
+Number of Vertices:4
+37.947332
+Number of Vertices:4
+10.455844
+Number of Vertices:4
+200.848201
+Number of Vertices:5
+63.546202
+Number of Vertices:5
+107.676201
+Number of Vertices:5
+60.854065
+Number of Vertices:5
+-24.647160
+Number of Vertices:5
+108.060592
+Number of Vertices:5
+171.742237
+Number of Vertices:5
+16.531922
+Number of Vertices:5
+-23.750545
+Number of Vertices:5
+18.325444
+Number of Vertices:5
+84.026238
+Number of Vertices:5
+48.506285
+Number of Vertices:5
+100.895866
+Number of Vertices:5
+67.677791
+Number of Vertices:5
+117.856176
+Number of Vertices:5
+90.504500
+Number of Vertices:5
+-0.803467
+Number of Vertices:5
+33.386374
+Number of Vertices:5
+79.561535
+Number of Vertices:5
+41.190588
+Number of Vertices:5
+97.927657
+Number of Vertices:5
+43.236448
+Number of Vertices:5
+13.328777
+Number of Vertices:5
+68.255916
+Number of Vertices:5
+26.245021
+Number of Vertices:5
+30.302117
+Number of Vertices:5
+55.709937
+Number of Vertices:5
+-42.973500
+Number of Vertices:5
+108.067248
+Number of Vertices:5
+31.653768
+Number of Vertices:5
+100.444086
+Number of Vertices:5
+85.611857
+Number of Vertices:5
+98.122986
+Number of Vertices:5
+54.912313
+Number of Vertices:5
+89.331862
+Number of Vertices:5
+102.101069
+Number of Vertices:5
+54.318737
+Number of Vertices:5
+-11.536571
+Number of Vertices:5
+103.669077
+Number of Vertices:5
+-15.021250
+Number of Vertices:5
+85.305619
+Number of Vertices:5
+-90.069006
+Number of Vertices:5
+49.729927
+Number of Vertices:5
+76.576759
+Number of Vertices:5
+96.499135
+Number of Vertices:5
+65.715005
+Number of Vertices:5
+57.588899
+Number of Vertices:5
+103.480340
+Number of Vertices:5
+9.781712
+Number of Vertices:5
+109.313026
+Number of Vertices:5
+161.755145
+Number of Vertices:6
+56.032215
+Number of Vertices:6
+73.030538
+Number of Vertices:6
+29.869777
+Number of Vertices:6
+32.154302
+Number of Vertices:6
+15.264856
+Number of Vertices:6
+35.605215
+Number of Vertices:6
+59.385864
+Number of Vertices:6
+77.210950
+Number of Vertices:6
+-50.799659
+Number of Vertices:6
+40.752745
+Number of Vertices:6
+12.790011
+Number of Vertices:6
+-63.225415
+Number of Vertices:6
+58.854034
+Number of Vertices:6
+134.577858
+Number of Vertices:6
+71.866616
+Number of Vertices:6
+-8.655928
+Number of Vertices:6
+21.997637
+Number of Vertices:6
+74.380789
+Number of Vertices:6
+-13.743597
+Number of Vertices:6
+111.855262
+Number of Vertices:6
+118.560573
+Number of Vertices:6
+94.367336
+Number of Vertices:6
+-39.071152
+Number of Vertices:6
+172.480585
+Number of Vertices:6
+87.607163
+Number of Vertices:6
+191.080193
+Number of Vertices:6
+13.396499
+Number of Vertices:6
+307.668776
+Number of Vertices:6
+54.913030
+Number of Vertices:6
+83.408552
+Number of Vertices:6
+55.334241
+Number of Vertices:6
+-108.685872
+Number of Vertices:6
+97.945141
+Number of Vertices:6
+16.656344
+Number of Vertices:6
+-56.437704
+Number of Vertices:6
+38.935799
+Number of Vertices:6
+36.139562
+Number of Vertices:6
+-45.181059
+Number of Vertices:6
+42.042684
+Number of Vertices:6
+110.364667
+Number of Vertices:6
+62.474365
+Number of Vertices:6
+-19.921015
+Number of Vertices:6
+46.548143
+Number of Vertices:6
+2.626063
+Number of Vertices:6
+-13.830874
+Number of Vertices:6
+-24.732660
+Number of Vertices:6
+71.326443
+Number of Vertices:6
+-8.639569
+Number of Vertices:6
+-2.852363
+Number of Vertices:6
+53.724584
+Number of Vertices:7
+22.554228
+Number of Vertices:7
+-33.570756
+Number of Vertices:7
+-78.021066
+Number of Vertices:7
+78.673035
+Number of Vertices:7
+31.171076
+Number of Vertices:7
+47.592829
+Number of Vertices:7
+-29.662198
+Number of Vertices:7
+57.572949
+Number of Vertices:7
+-1.305328
+Number of Vertices:7
+36.326911
+Number of Vertices:7
+68.348857
+Number of Vertices:7
+-82.188831
+Number of Vertices:7
+21.196291
+Number of Vertices:7
+26.013484
+Number of Vertices:7
+-101.672067
+Number of Vertices:7
+127.959274
+Number of Vertices:7
+-18.120557
+Number of Vertices:7
+-24.186904
+Number of Vertices:7
+-40.009236
+Number of Vertices:7
+55.439212
+Number of Vertices:7
+51.708274
+Number of Vertices:7
+-38.784062
+Number of Vertices:7
+25.048807
+Number of Vertices:7
+39.538648
+Number of Vertices:7
+87.129461
+Number of Vertices:7
+110.504668
+Number of Vertices:7
+55.528563
+Number of Vertices:7
+10.362262
+Number of Vertices:7
+309.623175
+Number of Vertices:7
+-45.409839
+Number of Vertices:7
+-100.330170
+Number of Vertices:7
+165.101037
+Number of Vertices:7
+-112.884239
+Number of Vertices:7
+68.035264
+Number of Vertices:7
+36.259177
+Number of Vertices:7
+-73.110940
+Number of Vertices:7
+0.760273
+Number of Vertices:7
+30.719377
+Number of Vertices:7
+25.558917
+Number of Vertices:7
+27.022198
+Number of Vertices:7
+14.225655
+Number of Vertices:7
+63.299773
+Number of Vertices:7
+26.522250
+Number of Vertices:7
+133.468671
+Number of Vertices:7
+114.502621
+Number of Vertices:7
+166.580304
+Number of Vertices:7
+7.692707
+Number of Vertices:7
+-1.553646
+Number of Vertices:7
+15.026104
+Number of Vertices:7
+113.991941
+Number of Vertices:8
+120.949132
+Number of Vertices:8
+-83.020137
+Number of Vertices:8
+66.139458
+Number of Vertices:8
+-27.902359
+Number of Vertices:8
+-80.293953
+Number of Vertices:8
+56.809526
+Number of Vertices:8
+41.445643
+Number of Vertices:8
+-56.903861
+Number of Vertices:8
+54.066729
+Number of Vertices:8
+-27.210345
+Number of Vertices:8
+-49.763472
+Number of Vertices:8
+21.897240
+Number of Vertices:8
+81.449233
+Number of Vertices:8
+6.712818
+Number of Vertices:8
+-21.353164
+Number of Vertices:8
+-28.373661
+Number of Vertices:8
+30.647676
+Number of Vertices:8
+-100.390936
+Number of Vertices:8
+-79.626779
+Number of Vertices:8
+29.796585
+Number of Vertices:8
+-20.368800
+Number of Vertices:8
+-35.374043
+Number of Vertices:8
+-62.738330
+Number of Vertices:8
+-69.418842
+Number of Vertices:8
+-4.012880
+Number of Vertices:8
+-157.862485
+Number of Vertices:8
+-38.192114
+Number of Vertices:8
+131.290860
+Number of Vertices:8
+-9.649780
+Number of Vertices:8
+-35.207520
+Number of Vertices:8
+14.726704
+Number of Vertices:8
+-52.678968
+Number of Vertices:8
+-14.066861
+Number of Vertices:8
+-112.150525
+Number of Vertices:8
+26.633057
+Number of Vertices:8
+-86.300315
+Number of Vertices:8
+-56.052137
+Number of Vertices:8
+87.771779
+Number of Vertices:8
+48.844092
+Number of Vertices:8
+-87.533347
+Number of Vertices:8
+-29.338234
+Number of Vertices:8
+17.838748
+Number of Vertices:8
+11.339880
+Number of Vertices:8
+55.439028
+Number of Vertices:8
+-11.326036
+Number of Vertices:8
+-31.248871
+Number of Vertices:8
+286.484138
+Number of Vertices:8
+-63.075072
+Number of Vertices:8
+-139.802660
+Number of Vertices:8
+-153.781023
+Number of Vertices:9
+-52.156730
+Number of Vertices:9
+22.514352
+Number of Vertices:9
+-133.738424
+Number of Vertices:9
+-45.837062
+Number of Vertices:9
+-54.161290
+Number of Vertices:9
+-2.996173
+Number of Vertices:9
+38.373583
+Number of Vertices:9
+-48.997226
+Number of Vertices:9
+23.798306
+Number of Vertices:9
+49.229890
+Number of Vertices:9
+-36.243365
+Number of Vertices:9
+-93.367661
+Number of Vertices:9
+-72.237692
+Number of Vertices:9
+-21.536094
+Number of Vertices:9
+-128.668104
+Number of Vertices:9
+55.616947
+Number of Vertices:9
+94.818943
+Number of Vertices:9
+0.839257
+Number of Vertices:9
+-24.065785
+Number of Vertices:9
+-127.331825
+Number of Vertices:9
+8.188736
+Number of Vertices:9
+-20.941008
+Number of Vertices:9
+-78.370553
+Number of Vertices:9
+-59.529322
+Number of Vertices:9
+30.405051
+Number of Vertices:9
+-24.004347
+Number of Vertices:9
+-72.654815
+Number of Vertices:9
+-14.422826
+Number of Vertices:9
+-120.608217
+Number of Vertices:9
+-56.990244
+Number of Vertices:9
+-106.552098
+Number of Vertices:9
+46.216462
+Number of Vertices:9
+-104.676382
+Number of Vertices:9
+9.359415
+Number of Vertices:9
+81.529257
+Number of Vertices:9
+45.811368
+Number of Vertices:9
+55.134726
+Number of Vertices:9
+1.234960
+Number of Vertices:9
+-58.664678
+Number of Vertices:9
+-41.488783
+Number of Vertices:9
+43.329950
+Number of Vertices:9
+54.837844
+Number of Vertices:9
+2.257007
+Number of Vertices:9
+-55.115638
+Number of Vertices:9
+11.811649
+Number of Vertices:9
+74.128351
+Number of Vertices:9
+-299.770290
+Number of Vertices:9
+-87.053924
+Number of Vertices:9
+-0.160003
+Number of Vertices:9
+-130.913663
+Number of Vertices:10
+85.778521
+Number of Vertices:10
+-147.128246
+Number of Vertices:10
+-22.983788
+Number of Vertices:10
+-14.275723
+Number of Vertices:10
+-34.374999
+Number of Vertices:10
+-44.414454
+Number of Vertices:10
+-169.060063
+Number of Vertices:10
+-155.352431
+Number of Vertices:10
+-183.730081
+Number of Vertices:10
+-233.417619
+Number of Vertices:10
+-26.299690
+Number of Vertices:10
+-87.763619
+Number of Vertices:10
+-28.471329
+Number of Vertices:10
+105.969437
+Number of Vertices:10
+-171.762924
+Number of Vertices:10
+-84.401174
+Number of Vertices:10
+-118.996858
+Number of Vertices:10
+-102.168466
+Number of Vertices:10
+-58.683763
+Number of Vertices:10
+-0.948229
+Number of Vertices:10
+-120.325332
+Number of Vertices:10
+-131.302798
+Number of Vertices:10
+-25.564539
+Number of Vertices:10
+-141.433711
+Number of Vertices:10
+-247.084340
+Number of Vertices:10
+-9.952657
+Number of Vertices:10
+-153.658074
+Number of Vertices:10
+-117.737076
+Number of Vertices:10
+44.162957
+Number of Vertices:10
+-221.607283
+Number of Vertices:10
+-83.025872
+Number of Vertices:10
+-71.340554
+Number of Vertices:10
+-21.687585
+Number of Vertices:10
+-157.995615
+Number of Vertices:10
+-50.134841
+Number of Vertices:10
+-8.696007
+Number of Vertices:10
+-102.354714
+Number of Vertices:10
+-176.634379
+Number of Vertices:10
+-91.570165
+Number of Vertices:10
+-142.697182
+Number of Vertices:10
+37.592378
+Number of Vertices:10
+-180.729041
+Number of Vertices:10
+-79.098691
+Number of Vertices:10
+-161.581164
+Number of Vertices:10
+-98.217036
+Number of Vertices:10
+-104.210448
+Number of Vertices:10
+65.882563
+Number of Vertices:10
+-30.945233
+Number of Vertices:10
+-118.722096
+Number of Vertices:10
+-7.372105
+Number of Vertices:11
+-42.776660
+Number of Vertices:11
+-198.031104
+Number of Vertices:11
+-192.229654
+Number of Vertices:11
+21.008291
+Number of Vertices:11
+-219.735143
+Number of Vertices:11
+-42.688252
+Number of Vertices:11
+-85.878787
+Number of Vertices:11
+-132.110605
+Number of Vertices:11
+36.504482
+Number of Vertices:11
+-139.256207
+Number of Vertices:11
+43.714434
+Number of Vertices:11
+-122.564954
+Number of Vertices:11
+-61.291884
+Number of Vertices:11
+-106.401825
+Number of Vertices:11
+-133.389651
+Number of Vertices:11
+-178.855062
+Number of Vertices:11
+8.482029
+Number of Vertices:11
+-129.862193
+Number of Vertices:11
+14.926606
+Number of Vertices:11
+-149.494677
+Number of Vertices:11
+-112.823037
+Number of Vertices:11
+-103.611886
+Number of Vertices:11
+-211.524569
+Number of Vertices:11
+-66.944171
+Number of Vertices:11
+-124.344503
+Number of Vertices:11
+-194.934640
+Number of Vertices:11
+-80.515832
+Number of Vertices:11
+-86.329486
+Number of Vertices:11
+-106.732410
+Number of Vertices:11
+-205.139435
+Number of Vertices:11
+-5.542819
+Number of Vertices:11
+-177.961530
+Number of Vertices:11
+-45.198575
+Number of Vertices:11
+-100.813596
+Number of Vertices:11
+-137.734228
+Number of Vertices:11
+-112.458103
+Number of Vertices:11
+35.805857
+Number of Vertices:11
+-143.450905
+Number of Vertices:11
+-97.749790
+Number of Vertices:11
+-278.531635
+Number of Vertices:11
+-108.649773
+Number of Vertices:11
+-262.934748
+Number of Vertices:11
+-90.743045
+Number of Vertices:11
+-18.369076
+Number of Vertices:11
+-86.400644
+Number of Vertices:11
+-57.116517
+Number of Vertices:11
+-78.006200
+Number of Vertices:11
+-210.933386
+Number of Vertices:11
+-80.477322
+Number of Vertices:11
+-154.133506
+Number of Vertices:12
+-79.817327
+Number of Vertices:12
+-121.564662
+Number of Vertices:12
+-132.525223
+Number of Vertices:12
+-65.429796
+Number of Vertices:12
+-252.511308
+Number of Vertices:12
+-172.907663
+Number of Vertices:12
+-74.343645
+Number of Vertices:12
+-146.140013
+Number of Vertices:12
+-334.992267
+Number of Vertices:12
+-107.215717
+Number of Vertices:12
+-169.220930
+Number of Vertices:12
+-117.335915
+Number of Vertices:12
+-161.641960
+Number of Vertices:12
+-242.036498
+Number of Vertices:12
+-164.112545
+Number of Vertices:12
+-90.238307
+Number of Vertices:12
+-38.892648
+Number of Vertices:12
+-159.851734
+Number of Vertices:12
+-218.359439
+Number of Vertices:12
+-177.125486
+Number of Vertices:12
+-138.867069
+Number of Vertices:12
+-265.223176
+Number of Vertices:12
+-79.899443
+Number of Vertices:12
+-293.316546
+Number of Vertices:12
+-119.269335
+Number of Vertices:12
+-55.535701
+Number of Vertices:12
+-56.895378
+Number of Vertices:12
+-298.646247
+Number of Vertices:12
+-213.984822
+Number of Vertices:12
+-171.491219
+Number of Vertices:12
+-209.270788
+Number of Vertices:12
+-127.688721
+Number of Vertices:12
+-83.424204
+Number of Vertices:12
+-59.456186
+Number of Vertices:12
+-88.587712
+Number of Vertices:12
+-57.749987
+Number of Vertices:12
+-58.463534
+Number of Vertices:12
+-66.843342
+Number of Vertices:12
+-158.897026
+Number of Vertices:12
+-202.783978
+Number of Vertices:12
+-222.974446
+Number of Vertices:12
+-24.753230
+Number of Vertices:12
+-138.168746
+Number of Vertices:12
+-147.491573
+Number of Vertices:12
+-102.730561
+Number of Vertices:12
+-224.063266
+Number of Vertices:12
+-131.167501
+Number of Vertices:12
+-126.504145
+Number of Vertices:12
+-134.523969
+Number of Vertices:12
+-266.456322
+Number of Vertices:13
+-268.020181
+Number of Vertices:13
+-237.545086
+Number of Vertices:13
+-249.863085
+Number of Vertices:13
+-147.166463
+Number of Vertices:13
+-176.871371
+Number of Vertices:13
+-308.720188
+Number of Vertices:13
+-92.477865
+Number of Vertices:13
+-20.590262
+Number of Vertices:13
+-131.932494
+Number of Vertices:13
+-194.121880
+Number of Vertices:13
+-13.689609
+Number of Vertices:13
+-123.369332
+Number of Vertices:13
+-235.230796
+Number of Vertices:13
+-247.662168
+Number of Vertices:13
+-161.418542
+Number of Vertices:13
+-283.200405
+Number of Vertices:13
+-49.902063
+Number of Vertices:13
+-149.768862
+Number of Vertices:13
+-172.823561
+Number of Vertices:13
+-152.194898
+Number of Vertices:13
+-128.714535
+Number of Vertices:13
+-45.947089
+Number of Vertices:13
+-134.538523
+Number of Vertices:13
+-201.387646
+Number of Vertices:13
+-195.910273
+Number of Vertices:13
+-23.838002
+Number of Vertices:13
+-181.664452
+Number of Vertices:13
+-226.217589
+Number of Vertices:13
+-356.543921
+Number of Vertices:13
+-308.261578
+Number of Vertices:13
+-308.665305
+Number of Vertices:13
+-245.066896
+Number of Vertices:13
+-106.524025
+Number of Vertices:13
+-171.870555
+Number of Vertices:13
+-302.064308
+Number of Vertices:13
+-122.046447
+Number of Vertices:13
+-243.012631
+Number of Vertices:13
+-28.022619
+Number of Vertices:13
+-280.285379
+Number of Vertices:13
+-59.268949
+Number of Vertices:13
+-37.566212
+Number of Vertices:13
+-193.647795
+Number of Vertices:13
+-173.455131
+Number of Vertices:13
+-126.679701
+Number of Vertices:13
+-144.983942
+Number of Vertices:13
+-215.284593
+Number of Vertices:13
+-157.709046
+Number of Vertices:13
+-194.859242
+Number of Vertices:13
+-186.421899
+Number of Vertices:13
+17.225239
+Number of Vertices:14
+-184.334785
+Number of Vertices:14
+-251.840154
+Number of Vertices:14
+-135.275124
+Number of Vertices:14
+-255.034445
+Number of Vertices:14
+-284.789052
+Number of Vertices:14
+-304.144074
+Number of Vertices:14
+-182.778939
+Number of Vertices:14
+-353.584733
+Number of Vertices:14
+-245.240878
+Number of Vertices:14
+-132.119163
+Number of Vertices:14
+-244.737728
+Number of Vertices:14
+-174.195333
+Number of Vertices:14
+-99.067101
+Number of Vertices:14
+-245.469975
+Number of Vertices:14
+-249.576310
+Number of Vertices:14
+-90.418084
+Number of Vertices:14
+-204.706691
+Number of Vertices:14
+-382.481314
+Number of Vertices:14
+-313.080533
+Number of Vertices:14
+-296.788295
+Number of Vertices:14
+-166.485028
+Number of Vertices:14
+-131.972014
+Number of Vertices:14
+-179.210167
+Number of Vertices:14
+-221.682446
+Number of Vertices:14
+-281.772287
+Number of Vertices:14
+-266.204879
+Number of Vertices:14
+-229.645408
+Number of Vertices:14
+-94.535689
+Number of Vertices:14
+-153.903884
+Number of Vertices:14
+-301.339970
+Number of Vertices:14
+-81.723332
+Number of Vertices:14
+-348.690604
+Number of Vertices:14
+-231.858660
+Number of Vertices:14
+-166.086973
+Number of Vertices:14
+-190.688023
+Number of Vertices:14
+-309.206642
+Number of Vertices:14
+-356.986809
+Number of Vertices:14
+-23.249003
+Number of Vertices:14
+-149.454160
+Number of Vertices:14
+-202.611587
+Number of Vertices:14
+-328.221436
+Number of Vertices:14
+-186.372024
+Number of Vertices:14
+-128.648990
+Number of Vertices:14
+-198.019725
+Number of Vertices:14
+-270.123862
+Number of Vertices:14
+-233.275057
+Number of Vertices:14
+-208.981269
+Number of Vertices:14
+-187.162970
+Number of Vertices:14
+-227.816074
+Number of Vertices:14
+-386.964595
+Number of Vertices:15
+-381.535153
+Number of Vertices:15
+-308.302795
+Number of Vertices:15
+-288.122019
+Number of Vertices:15
+-207.362236
+Number of Vertices:15
+-222.175925
+Number of Vertices:15
+-382.456939
+Number of Vertices:15
+-348.746656
+Number of Vertices:15
+-301.435798
+Number of Vertices:15
+-217.403740
+Number of Vertices:15
+-175.803551
+Number of Vertices:15
+-222.982178
+Number of Vertices:15
+-410.582442
+Number of Vertices:15
+-425.514711
+Number of Vertices:15
+-194.330191
+Number of Vertices:15
+-402.246279
+Number of Vertices:15
+-250.497429
+Number of Vertices:15
+-219.097258
+Number of Vertices:15
+-291.318501
+Number of Vertices:15
+-229.782919
+Number of Vertices:15
+-200.514619
+Number of Vertices:15
+-489.347785
+Number of Vertices:15
+-485.521754
+Number of Vertices:15
+-184.091360
+Number of Vertices:15
+-234.431639
+Number of Vertices:15
+-203.767197
+Number of Vertices:15
+-399.929637
+Number of Vertices:15
+-258.286254
+Number of Vertices:15
+-234.606619
+Number of Vertices:15
+-299.070542
+Number of Vertices:15
+-240.460006
+Number of Vertices:15
+-296.313130
+Number of Vertices:15
+-363.488606
+Number of Vertices:15
+-452.298098
+Number of Vertices:15
+-269.567961
+Number of Vertices:15
+-307.022323
+Number of Vertices:15
+-179.302965
+Number of Vertices:15
+-127.400518
+Number of Vertices:15
+-452.513003
+Number of Vertices:15
+-442.245586
+Number of Vertices:15
+-336.177874
+Number of Vertices:15
+-441.494243
+Number of Vertices:15
+-280.312996
+Number of Vertices:15
+-296.568972
+Number of Vertices:15
+-313.454451
+Number of Vertices:15
+-95.378410
+Number of Vertices:15
+-312.783615
+Number of Vertices:15
+-283.677323
+Number of Vertices:15
+-197.561251
+Number of Vertices:15
+-263.253717
+Number of Vertices:15
+-250.562452
+Number of Vertices:16
+-251.794314
+Number of Vertices:16
+-333.199142
+Number of Vertices:16
+-334.451671
+Number of Vertices:16
+-256.179973
+Number of Vertices:16
+-433.507652
+Number of Vertices:16
+-208.705847
+Number of Vertices:16
+-413.461989
+Number of Vertices:16
+-298.306506
+Number of Vertices:16
+-434.759723
+Number of Vertices:16
+-508.286428
+Number of Vertices:16
+-365.009002
+Number of Vertices:16
+-335.562510
+Number of Vertices:16
+-318.929683
+Number of Vertices:16
+-258.227317
+Number of Vertices:16
+-266.991311
+Number of Vertices:16
+-253.908668
+Number of Vertices:16
+-235.439135
+Number of Vertices:16
+-414.088102
+Number of Vertices:16
+-201.458043
+Number of Vertices:16
+-391.408284
+Number of Vertices:16
+-412.954541
+Number of Vertices:16
+-327.671955
+Number of Vertices:16
+-384.720762
+Number of Vertices:16
+-210.993551
+Number of Vertices:16
+-222.354223
+Number of Vertices:16
+-280.692474
+Number of Vertices:16
+-309.007209
+Number of Vertices:16
+-239.476422
+Number of Vertices:16
+-344.898705
+Number of Vertices:16
+-456.838522
+Number of Vertices:16
+-443.164445
+Number of Vertices:16
+-218.778498
+Number of Vertices:16
+-465.838180
+Number of Vertices:16
+-356.065255
+Number of Vertices:16
+-396.482468
+Number of Vertices:16
+-246.996573
+Number of Vertices:16
+-194.814202
+Number of Vertices:16
+-300.498522
+Number of Vertices:16
+-394.606374
+Number of Vertices:16
+-503.921139
+Number of Vertices:16
+-188.662879
+Number of Vertices:16
+-412.657521
+Number of Vertices:16
+-277.788760
+Number of Vertices:16
+-359.691815
+Number of Vertices:16
+-215.173915
+Number of Vertices:16
+-292.716599
+Number of Vertices:16
+-414.200444
+Number of Vertices:16
+-289.925545
+Number of Vertices:16
+-679.872985
+Number of Vertices:16
+-148.753558
+Number of Vertices:17
+-333.462549
+Number of Vertices:17
+-321.324198
+Number of Vertices:17
+-449.631284
+Number of Vertices:17
+-452.001401
+Number of Vertices:17
+-412.848987
+Number of Vertices:17
+-555.092888
+Number of Vertices:17
+-320.400578
+Number of Vertices:17
+-319.468132
+Number of Vertices:17
+-219.616309
+Number of Vertices:17
+-326.332328
+Number of Vertices:17
+-309.120101
+Number of Vertices:17
+-143.511295
+Number of Vertices:17
+-570.467307
+Number of Vertices:17
+-398.092594
+Number of Vertices:17
+-366.616204
+Number of Vertices:17
+-562.027168
+Number of Vertices:17
+-570.365988
+Number of Vertices:17
+-365.118915
+Number of Vertices:17
+-287.315685
+Number of Vertices:17
+-344.948340
+Number of Vertices:17
+-485.443281
+Number of Vertices:17
+-490.695034
+Number of Vertices:17
+-610.620156
+Number of Vertices:17
+-347.268927
+Number of Vertices:17
+-336.985178
+Number of Vertices:17
+-325.276443
+Number of Vertices:17
+-341.222302
+Number of Vertices:17
+-353.074387
+Number of Vertices:17
+-268.984153
+Number of Vertices:17
+-438.660668
+Number of Vertices:17
+-443.369138
+Number of Vertices:17
+-387.671812
+Number of Vertices:17
+-244.476527
+Number of Vertices:17
+-611.834361
+Number of Vertices:17
+-452.059695
+Number of Vertices:17
+-463.144733
+Number of Vertices:17
+-424.410682
+Number of Vertices:17
+-484.818135
+Number of Vertices:17
+-249.625336
+Number of Vertices:17
+-702.974627
+Number of Vertices:17
+-424.343676
+Number of Vertices:17
+-324.635932
+Number of Vertices:17
+-294.858550
+Number of Vertices:17
+-551.335653
+Number of Vertices:17
+-505.100115
+Number of Vertices:17
+-442.491193
+Number of Vertices:17
+-396.643664
+Number of Vertices:17
+-328.113914
+Number of Vertices:17
+-512.054179
+Number of Vertices:17
+-468.378792
+Number of Vertices:18
+-192.204426
+Number of Vertices:18
+-277.932194
+Number of Vertices:18
+-388.293187
+Number of Vertices:18
+-547.900672
+Number of Vertices:18
+-457.307872
+Number of Vertices:18
+-426.735565
+Number of Vertices:18
+-241.501216
+Number of Vertices:18
+-272.940893
+Number of Vertices:18
+-264.248395
+Number of Vertices:18
+-532.517666
+Number of Vertices:18
+-462.208735
+Number of Vertices:18
+-414.625964
+Number of Vertices:18
+-387.645012
+Number of Vertices:18
+-261.654804
+Number of Vertices:18
+-317.802532
+Number of Vertices:18
+-460.721285
+Number of Vertices:18
+-408.835466
+Number of Vertices:18
+-395.184703
+Number of Vertices:18
+-529.434528
+Number of Vertices:18
+-461.745355
+Number of Vertices:18
+-323.815349
+Number of Vertices:18
+-632.836347
+Number of Vertices:18
+-383.542537
+Number of Vertices:18
+-387.160550
+Number of Vertices:18
+-353.332382
+Number of Vertices:18
+-492.297037
+Number of Vertices:18
+-453.108157
+Number of Vertices:18
+-571.396028
+Number of Vertices:18
+-372.741627
+Number of Vertices:18
+-521.841704
+Number of Vertices:18
+-387.924626
+Number of Vertices:18
+-298.382036
+Number of Vertices:18
+-569.084262
+Number of Vertices:18
+-566.258579
+Number of Vertices:18
+-449.257581
+Number of Vertices:18
+-526.566014
+Number of Vertices:18
+-584.357463
+Number of Vertices:18
+-510.391408
+Number of Vertices:18
+-358.080548
+Number of Vertices:18
+-236.115863
+Number of Vertices:18
+-348.110523
+Number of Vertices:18
+-656.808955
+Number of Vertices:18
+-458.465931
+Number of Vertices:18
+-442.503176
+Number of Vertices:18
+-476.287288
+Number of Vertices:18
+-423.552781
+Number of Vertices:18
+-395.986140
+Number of Vertices:18
+-348.218028
+Number of Vertices:18
+-540.684152
+Number of Vertices:18
+-469.396871
+Number of Vertices:19
+-528.295757
+Number of Vertices:19
+-502.415483
+Number of Vertices:19
+-645.676021
+Number of Vertices:19
+-455.184737
+Number of Vertices:19
+-342.772623
+Number of Vertices:19
+-401.886238
+Number of Vertices:19
+-478.608596
+Number of Vertices:19
+-586.478657
+Number of Vertices:19
+-603.639162
+Number of Vertices:19
+-570.124753
+Number of Vertices:19
+-536.707258
+Number of Vertices:19
+-337.957099
+Number of Vertices:19
+-469.946875
+Number of Vertices:19
+-680.449462
+Number of Vertices:19
+-604.883810
+Number of Vertices:19
+-430.483953
+Number of Vertices:19
+-538.320728
+Number of Vertices:19
+-436.817631
+Number of Vertices:19
+-578.268446
+Number of Vertices:19
+-444.661192
+Number of Vertices:19
+-555.862917
+Number of Vertices:19
+-432.207921
+Number of Vertices:19
+-386.531560
+Number of Vertices:19
+-502.045359
+Number of Vertices:19
+-842.297912
+Number of Vertices:19
+-594.082497
+Number of Vertices:19
+-602.252208
+Number of Vertices:19
+-451.363035
+Number of Vertices:19
+-835.908641
+Number of Vertices:19
+-626.547328
+Number of Vertices:19
+-350.190703
+Number of Vertices:19
+-511.843036
+Number of Vertices:19
+-543.863675
+Number of Vertices:19
+-480.993766
+Number of Vertices:19
+-585.246471
+Number of Vertices:19
+-501.615854
+Number of Vertices:19
+-375.066750
+Number of Vertices:19
+-469.025383
+Number of Vertices:19
+-460.380796
+Number of Vertices:19
+-640.832409
+Number of Vertices:19
+-585.150015
+Number of Vertices:19
+-538.114152
+Number of Vertices:19
+-415.565719
+Number of Vertices:19
+-482.238685
+Number of Vertices:19
+-488.827769
+Number of Vertices:19
+-611.793827
+Number of Vertices:19
+-350.998098
+Number of Vertices:19
+-494.159892
+Number of Vertices:19
+-427.082031
+Number of Vertices:19
+-82.008907
+Number of Vertices:20
+-444.611808
+Number of Vertices:20
+-335.094526
+Number of Vertices:20
+-533.831314
+Number of Vertices:20
+-747.716683
+Number of Vertices:20
+-509.907572
+Number of Vertices:20
+-273.368897
+Number of Vertices:20
+-551.377718
+Number of Vertices:20
+-779.143791
+Number of Vertices:20
+-471.381032
+Number of Vertices:20
+-471.320391
+Number of Vertices:20
+-476.634013
+Number of Vertices:20
+-524.580729
+Number of Vertices:20
+-406.149489
+Number of Vertices:20
+-670.276783
+Number of Vertices:20
+-607.417041
+Number of Vertices:20
+-547.201874
+Number of Vertices:20
+-629.393492
+Number of Vertices:20
+-413.778946
+Number of Vertices:20
+-601.036441
+Number of Vertices:20
+-587.816397
+Number of Vertices:20
+-566.648396
+Number of Vertices:20
+-626.875450
+Number of Vertices:20
+-614.286390
+Number of Vertices:20
+-531.513672
+Number of Vertices:20
+-691.562584
+Number of Vertices:20
+-562.578353
+Number of Vertices:20
+-841.218829
+Number of Vertices:20
+-440.017711
+Number of Vertices:20
+-374.275528
+Number of Vertices:20
+-451.777948
+Number of Vertices:20
+-513.574120
+Number of Vertices:20
+-542.930605
+Number of Vertices:20
+-493.755481
+Number of Vertices:20
+-715.493654
+Number of Vertices:20
+-333.828403
+Number of Vertices:20
+-548.915477
+Number of Vertices:20
+-698.283204
+Number of Vertices:20
+-571.353123
+Number of Vertices:20
+-610.858020
+Number of Vertices:20
+-463.463850
+Number of Vertices:20
+-603.216833
+Number of Vertices:20
+-454.037577
+Number of Vertices:20
+-649.660929
+Number of Vertices:20
+-543.229443
+Number of Vertices:20
+-493.626647
+Number of Vertices:20
+-795.535835
+Number of Vertices:20
+-480.981070
+Number of Vertices:20
+-531.393258
+Number of Vertices:20
+-552.367393
+Number of Vertices:20
+-637.812976
+Number of Vertices:21
+-857.609504
+Number of Vertices:21
+-662.585838
+Number of Vertices:21
+-521.771972
+Number of Vertices:21
+-1096.214534
+Number of Vertices:21
+-417.595072
+Number of Vertices:21
+-661.122132
+Number of Vertices:21
+-484.168609
+Number of Vertices:21
+-872.705471
+Number of Vertices:21
+-534.182520
+Number of Vertices:21
+-651.267583
+Number of Vertices:21
+-702.068997
+Number of Vertices:21
+-474.392722
+Number of Vertices:21
+-657.130732
+Number of Vertices:21
+-751.217866
+Number of Vertices:21
+-557.176042
+Number of Vertices:21
+-451.436586
+Number of Vertices:21
+-537.256174
+Number of Vertices:21
+-743.215314
+Number of Vertices:21
+-598.690422
+Number of Vertices:21
+-790.211564
+Number of Vertices:21
+-518.483380
+Number of Vertices:21
+-539.970588
+Number of Vertices:21
+-612.062529
+Number of Vertices:21
+-653.126018
+Number of Vertices:21
+-587.848682
+Number of Vertices:21
+-610.835459
+Number of Vertices:21
+-559.778045
+Number of Vertices:21
+-572.961632
+Number of Vertices:21
+-513.732682
+Number of Vertices:21
+-675.925544
+Number of Vertices:21
+-581.553897
+Number of Vertices:21
+-809.726245
+Number of Vertices:21
+-644.600661
+Number of Vertices:21
+-539.134769
+Number of Vertices:21
+-626.846673
+Number of Vertices:21
+-690.678207
+Number of Vertices:21
+-714.078898
+Number of Vertices:21
+-682.123314
+Number of Vertices:21
+-967.414521
+Number of Vertices:21
+-638.601584
+Number of Vertices:21
+-634.556342
+Number of Vertices:21
+-504.107696
+Number of Vertices:21
+-647.954041
+Number of Vertices:21
+-600.703855
+Number of Vertices:21
+-517.324115
+Number of Vertices:21
+-631.661700
+Number of Vertices:21
+-637.852372
+Number of Vertices:21
+-548.392055
+Number of Vertices:21
+-653.412051
+Number of Vertices:21
+-690.677806
+Number of Vertices:22
+-537.185505
+Number of Vertices:22
+-786.506627
+Number of Vertices:22
+-500.258301
+Number of Vertices:22
+-458.135744
+Number of Vertices:22
+-730.140951
+Number of Vertices:22
+-647.088594
+Number of Vertices:22
+-716.873092
+Number of Vertices:22
+-551.696382
+Number of Vertices:22
+-694.677166
+Number of Vertices:22
+-601.522957
+Number of Vertices:22
+-598.395353
+Number of Vertices:22
+-516.749585
+Number of Vertices:22
+-649.347314
+Number of Vertices:22
+-591.225885
+Number of Vertices:22
+-973.299233
+Number of Vertices:22
+-942.419567
+Number of Vertices:22
+-623.431497
+Number of Vertices:22
+-829.522992
+Number of Vertices:22
+-468.581201
+Number of Vertices:22
+-682.842400
+Number of Vertices:22
+-574.326122
+Number of Vertices:22
+-547.588675
+Number of Vertices:22
+-762.878139
+Number of Vertices:22
+-589.508364
+Number of Vertices:22
+-687.851680
+Number of Vertices:22
+-608.657687
+Number of Vertices:22
+-764.337067
+Number of Vertices:22
+-818.090648
+Number of Vertices:22
+-888.523222
+Number of Vertices:22
+-1009.059496
+Number of Vertices:22
+-698.500692
+Number of Vertices:22
+-561.605174
+Number of Vertices:22
+-484.488949
+Number of Vertices:22
+-662.466040
+Number of Vertices:22
+-668.509221
+Number of Vertices:22
+-604.226676
+Number of Vertices:22
+-576.299424
+Number of Vertices:22
+-618.966169
+Number of Vertices:22
+-359.634629
+Number of Vertices:22
+-475.681886
+Number of Vertices:22
+-713.191064
+Number of Vertices:22
+-777.195585
+Number of Vertices:22
+-550.218031
+Number of Vertices:22
+-557.677303
+Number of Vertices:22
+-490.928463
+Number of Vertices:22
+-754.309727
+Number of Vertices:22
+-712.905295
+Number of Vertices:22
+-785.931632
+Number of Vertices:22
+-696.839568
+Number of Vertices:22
+-894.633244
+Number of Vertices:23
+-556.487768
+Number of Vertices:23
+-772.641695
+Number of Vertices:23
+-786.257911
+Number of Vertices:23
+-410.756606
+Number of Vertices:23
+-952.135036
+Number of Vertices:23
+-828.719691
+Number of Vertices:23
+-666.983837
+Number of Vertices:23
+-1049.873272
+Number of Vertices:23
+-886.538597
+Number of Vertices:23
+-1285.779254
+Number of Vertices:23
+-880.517950
+Number of Vertices:23
+-915.586063
+Number of Vertices:23
+-649.110217
+Number of Vertices:23
+-761.584826
+Number of Vertices:23
+-762.694606
+Number of Vertices:23
+-852.277922
+Number of Vertices:23
+-531.140320
+Number of Vertices:23
+-529.341799
+Number of Vertices:23
+-600.552992
+Number of Vertices:23
+-534.289155
+Number of Vertices:23
+-676.587003
+Number of Vertices:23
+-825.219686
+Number of Vertices:23
+-742.301795
+Number of Vertices:23
+-839.219746
+Number of Vertices:23
+-758.007979
+Number of Vertices:23
+-1077.440817
+Number of Vertices:23
+-631.285375
+Number of Vertices:23
+-845.350069
+Number of Vertices:23
+-847.796100
+Number of Vertices:23
+-829.673444
+Number of Vertices:23
+-889.014222
+Number of Vertices:23
+-785.788194
+Number of Vertices:23
+-797.573855
+Number of Vertices:23
+-759.616085
+Number of Vertices:23
+-794.731546
+Number of Vertices:23
+-784.324654
+Number of Vertices:23
+-780.327994
+Number of Vertices:23
+-564.269683
+Number of Vertices:23
+-860.669505
+Number of Vertices:23
+-709.791073
+Number of Vertices:23
+-749.200891
+Number of Vertices:23
+-659.041244
+Number of Vertices:23
+-830.224270
+Number of Vertices:23
+-722.529959
+Number of Vertices:23
+-639.719862
+Number of Vertices:23
+-554.451159
+Number of Vertices:23
+-635.786204
+Number of Vertices:23
+-729.969587
+Number of Vertices:23
+-657.509106
+Number of Vertices:23
+-836.722119
+Number of Vertices:24
+-822.775344
+Number of Vertices:24
+-605.887162
+Number of Vertices:24
+-742.004549
+Number of Vertices:24
+-599.678614
+Number of Vertices:24
+-1075.220994
+Number of Vertices:24
+-674.584388
+Number of Vertices:24
+-937.828621
+Number of Vertices:24
+-889.869225
+Number of Vertices:24
+-1002.038873
+Number of Vertices:24
+-783.062417
+Number of Vertices:24
+-899.725094
+Number of Vertices:24
+-811.914687
+Number of Vertices:24
+-1031.237695
+Number of Vertices:24
+-607.418535
+Number of Vertices:24
+-835.546142
+Number of Vertices:24
+-1092.961518
+Number of Vertices:24
+-698.858720
+Number of Vertices:24
+-884.584047
+Number of Vertices:24
+-647.799928
+Number of Vertices:24
+-809.346447
+Number of Vertices:24
+-1008.349330
+Number of Vertices:24
+-787.920357
+Number of Vertices:24
+-1115.601688
+Number of Vertices:24
+-824.302083
+Number of Vertices:24
+-970.829492
+Number of Vertices:24
+-673.904369
+Number of Vertices:24
+-760.891243
+Number of Vertices:24
+-787.897106
+Number of Vertices:24
+-759.358553
+Number of Vertices:24
+-746.965964
+Number of Vertices:24
+-854.785262
+Number of Vertices:24
+-685.250128
+Number of Vertices:24
+-967.129180
+Number of Vertices:24
+-805.432887
+Number of Vertices:24
+-633.072011
+Number of Vertices:24
+-653.087588
+Number of Vertices:24
+-737.551572
+Number of Vertices:24
+-657.989838
+Number of Vertices:24
+-914.257119
+Number of Vertices:24
+-879.976220
+Number of Vertices:24
+-697.641551
+Number of Vertices:24
+-975.252120
+Number of Vertices:24
+-916.944936
+Number of Vertices:24
+-681.983755
+Number of Vertices:24
+-805.935054
+Number of Vertices:24
+-727.646728
+Number of Vertices:24
+-751.381077
+Number of Vertices:24
+-795.471430
+Number of Vertices:24
+-715.554680
+Number of Vertices:24
+-608.284672
+Number of Vertices:25
+-443.129679
+Number of Vertices:25
+-689.632351
+Number of Vertices:25
+-816.305806
+Number of Vertices:25
+-750.718454
+Number of Vertices:25
+-854.417134
+Number of Vertices:25
+-703.248189
+Number of Vertices:25
+-728.394885
+Number of Vertices:25
+-866.339702
+Number of Vertices:25
+-727.794780
+Number of Vertices:25
+-651.483383
+Number of Vertices:25
+-708.027960
+Number of Vertices:25
+-859.016084
+Number of Vertices:25
+-753.760666
+Number of Vertices:25
+-1085.250337
+Number of Vertices:25
+-682.558746
+Number of Vertices:25
+-987.933028
+Number of Vertices:25
+-919.935407
+Number of Vertices:25
+-958.115187
+Number of Vertices:25
+-764.011887
+Number of Vertices:25
+-768.269071
+Number of Vertices:25
+-797.306797
+Number of Vertices:25
+-779.987336
+Number of Vertices:25
+-905.077034
+Number of Vertices:25
+-720.799940
+Number of Vertices:25
+-985.177649
+Number of Vertices:25
+-890.207452
+Number of Vertices:25
+-793.762168
+Number of Vertices:25
+-988.373689
+Number of Vertices:25
+-1257.927622
+Number of Vertices:25
+-945.226811
+Number of Vertices:25
+-780.471936
+Number of Vertices:25
+-882.522360
+Number of Vertices:25
+-808.755063
+Number of Vertices:25
+-728.844932
+Number of Vertices:25
+-936.134906
+Number of Vertices:25
+-847.355104
+Number of Vertices:25
+-829.129932
+Number of Vertices:25
+-934.475241
+Number of Vertices:25
+-949.375122
+Number of Vertices:25
+-1003.516099
+Number of Vertices:25
+-1124.469312
+Number of Vertices:25
+-780.495380
+Number of Vertices:25
+-831.219719
+Number of Vertices:25
+-688.685052
+Number of Vertices:25
+-887.798874
+Number of Vertices:25
+-939.889222
+Number of Vertices:25
+-1012.243990
+Number of Vertices:25
+-717.421255
+Number of Vertices:25
+-883.608519
+Number of Vertices:25
+-737.130207
+Number of Vertices:26
+-1053.802439
+Number of Vertices:26
+-529.222936
+Number of Vertices:26
+-1005.575953
+Number of Vertices:26
+-1023.768296
+Number of Vertices:26
+-969.082329
+Number of Vertices:26
+-982.539654
+Number of Vertices:26
+-1283.408714
+Number of Vertices:26
+-975.000382
+Number of Vertices:26
+-852.783018
+Number of Vertices:26
+-829.863387
+Number of Vertices:26
+-834.705318
+Number of Vertices:26
+-973.183723
+Number of Vertices:26
+-766.501883
+Number of Vertices:26
+-1017.049419
+Number of Vertices:26
+-963.122739
+Number of Vertices:26
+-898.000761
+Number of Vertices:26
+-766.218247
+Number of Vertices:26
+-931.576783
+Number of Vertices:26
+-823.632972
+Number of Vertices:26
+-775.922910
+Number of Vertices:26
+-796.398068
+Number of Vertices:26
+-1024.476511
+Number of Vertices:26
+-953.307578
+Number of Vertices:26
+-801.151421
+Number of Vertices:26
+-864.290084
+Number of Vertices:26
+-1083.788213
+Number of Vertices:26
+-968.911316
+Number of Vertices:26
+-853.684684
+Number of Vertices:26
+-788.194066
+Number of Vertices:26
+-794.652830
+Number of Vertices:26
+-1023.292290
+Number of Vertices:26
+-933.746043
+Number of Vertices:26
+-756.575663
+Number of Vertices:26
+-1008.157204
+Number of Vertices:26
+-883.514216
+Number of Vertices:26
+-892.452147
+Number of Vertices:26
+-932.483595
+Number of Vertices:26
+-895.253871
+Number of Vertices:26
+-1017.694585
+Number of Vertices:26
+-813.719985
+Number of Vertices:26
+-1050.859644
+Number of Vertices:26
+-754.031711
+Number of Vertices:26
+-978.782370
+Number of Vertices:26
+-648.544023
+Number of Vertices:26
+-810.505998
+Number of Vertices:26
+-822.403261
+Number of Vertices:26
+-1069.476557
+Number of Vertices:26
+-789.302125
+Number of Vertices:26
+-722.644222
+Number of Vertices:26
+-1157.470558
+Number of Vertices:27
+-981.854584
+Number of Vertices:27
+-949.481041
+Number of Vertices:27
+-1157.858629
+Number of Vertices:27
+-900.747580
+Number of Vertices:27
+-881.346905
+Number of Vertices:27
+-947.309494
+Number of Vertices:27
+-850.518226
+Number of Vertices:27
+-891.505483
+Number of Vertices:27
+-795.627334
+Number of Vertices:27
+-1154.898398
+Number of Vertices:27
+-980.424280
+Number of Vertices:27
+-939.101000
+Number of Vertices:27
+-1019.743001
+Number of Vertices:27
+-743.956503
+Number of Vertices:27
+-977.088045
+Number of Vertices:27
+-1053.282871
+Number of Vertices:27
+-820.297237
+Number of Vertices:27
+-871.263412
+Number of Vertices:27
+-843.370304
+Number of Vertices:27
+-1050.580947
+Number of Vertices:27
+-823.222129
+Number of Vertices:27
+-1180.982804
+Number of Vertices:27
+-1158.362172
+Number of Vertices:27
+-904.787911
+Number of Vertices:27
+-839.239689
+Number of Vertices:27
+-911.568931
+Number of Vertices:27
+-792.043580
+Number of Vertices:27
+-916.450402
+Number of Vertices:27
+-1071.389303
+Number of Vertices:27
+-1117.349685
+Number of Vertices:27
+-822.564706
+Number of Vertices:27
+-926.696669
+Number of Vertices:27
+-882.209757
+Number of Vertices:27
+-884.105239
+Number of Vertices:27
+-844.002495
+Number of Vertices:27
+-651.828031
+Number of Vertices:27
+-1191.643130
+Number of Vertices:27
+-763.354902
+Number of Vertices:27
+-984.573743
+Number of Vertices:27
+-1009.268008
+Number of Vertices:27
+-1040.908657
+Number of Vertices:27
+-824.738824
+Number of Vertices:27
+-799.544855
+Number of Vertices:27
+-1005.607742
+Number of Vertices:27
+-1365.808076
+Number of Vertices:27
+-1135.786520
+Number of Vertices:27
+-757.186630
+Number of Vertices:27
+-1095.960560
+Number of Vertices:27
+-829.326838
+Number of Vertices:27
+-1081.616010
+Number of Vertices:28
+-1265.703155
+Number of Vertices:28
+-738.216578
+Number of Vertices:28
+-938.956225
+Number of Vertices:28
+-1248.374074
+Number of Vertices:28
+-678.103582
+Number of Vertices:28
+-1014.204817
+Number of Vertices:28
+-1040.491183
+Number of Vertices:28
+-1048.805486
+Number of Vertices:28
+-1184.594708
+Number of Vertices:28
+-1305.130530
+Number of Vertices:28
+-1043.057340
+Number of Vertices:28
+-984.586707
+Number of Vertices:28
+-921.512358
+Number of Vertices:28
+-988.703326
+Number of Vertices:28
+-796.985389
+Number of Vertices:28
+-1103.498825
+Number of Vertices:28
+-1165.532206
+Number of Vertices:28
+-979.394877
+Number of Vertices:28
+-1067.512703
+Number of Vertices:28
+-1056.058754
+Number of Vertices:28
+-779.363658
+Number of Vertices:28
+-1067.011337
+Number of Vertices:28
+-1085.039409
+Number of Vertices:28
+-1254.565919
+Number of Vertices:28
+-861.367620
+Number of Vertices:28
+-1147.001730
+Number of Vertices:28
+-1244.946731
+Number of Vertices:28
+-843.928352
+Number of Vertices:28
+-876.808625
+Number of Vertices:28
+-993.421297
+Number of Vertices:28
+-1124.891407
+Number of Vertices:28
+-1435.832160
+Number of Vertices:28
+-1163.549900
+Number of Vertices:28
+-1080.754260
+Number of Vertices:28
+-1002.109329
+Number of Vertices:28
+-916.859396
+Number of Vertices:28
+-1037.298380
+Number of Vertices:28
+-1182.236353
+Number of Vertices:28
+-863.234801
+Number of Vertices:28
+-1066.645938
+Number of Vertices:28
+-792.029086
+Number of Vertices:28
+-1193.786975
+Number of Vertices:28
+-628.870159
+Number of Vertices:28
+-1012.144314
+Number of Vertices:28
+-837.335773
+Number of Vertices:28
+-1170.572694
+Number of Vertices:28
+-1194.669146
+Number of Vertices:28
+-844.509204
+Number of Vertices:28
+-1154.430871
+Number of Vertices:28
+-1090.028283
+Number of Vertices:29
+-1199.873945
+Number of Vertices:29
+-974.641708
+Number of Vertices:29
+-1277.836480
+Number of Vertices:29
+-1170.875955
+Number of Vertices:29
+-1100.207175
+Number of Vertices:29
+-1040.044462
+Number of Vertices:29
+-808.533290
+Number of Vertices:29
+-1104.865265
+Number of Vertices:29
+-1061.275803
+Number of Vertices:29
+-856.178417
+Number of Vertices:29
+-715.285217
+Number of Vertices:29
+-1046.011504
+Number of Vertices:29
+-1175.873866
+Number of Vertices:29
+-892.606189
+Number of Vertices:29
+-1048.312735
+Number of Vertices:29
+-1254.611371
+Number of Vertices:29
+-1238.118004
+Number of Vertices:29
+-1153.388565
+Number of Vertices:29
+-1367.030161
+Number of Vertices:29
+-1235.590137
+Number of Vertices:29
+-1228.329110
+Number of Vertices:29
+-811.898885
+Number of Vertices:29
+-1050.195360
+Number of Vertices:29
+-1131.583382
+Number of Vertices:29
+-1027.101758
+Number of Vertices:29
+-1216.471599
+Number of Vertices:29
+-1088.653235
+Number of Vertices:29
+-947.996577
+Number of Vertices:29
+-1174.333762
+Number of Vertices:29
+-1402.984735
+Number of Vertices:29
+-1199.737118
+Number of Vertices:29
+-1152.056239
+Number of Vertices:29
+-1156.416389
+Number of Vertices:29
+-1391.584587
+Number of Vertices:29
+-1251.322679
+Number of Vertices:29
+-1139.588004
+Number of Vertices:29
+-877.030919
+Number of Vertices:29
+-988.836423
+Number of Vertices:29
+-1270.706740
+Number of Vertices:29
+-1188.021779
+Number of Vertices:29
+-1411.442108
+Number of Vertices:29
+-1161.921335
+Number of Vertices:29
+-881.293817
+Number of Vertices:29
+-1373.621717
+Number of Vertices:29
+-1236.480942
+Number of Vertices:29
+-1290.274532
+Number of Vertices:29
+-1121.609456
+Number of Vertices:29
+-1043.863150
+Number of Vertices:29
+-988.162639
+Number of Vertices:29
+-1312.118445
+Number of Vertices:30
+-881.982261
+Number of Vertices:30
+-1243.407259
+Number of Vertices:30
+-945.983736
+Number of Vertices:30
+-1224.395061
+Number of Vertices:30
+-1198.841910
+Number of Vertices:30
+-1376.508038
+Number of Vertices:30
+-1195.409778
+Number of Vertices:30
+-1084.787289
+Number of Vertices:30
+-1162.363650
+Number of Vertices:30
+-1312.559476
+Number of Vertices:30
+-1237.573612
+Number of Vertices:30
+-1156.624839
+Number of Vertices:30
+-1302.855082
+Number of Vertices:30
+-1453.820104
+Number of Vertices:30
+-1013.723539
+Number of Vertices:30
+-1070.524602
+Number of Vertices:30
+-1292.040341
+Number of Vertices:30
+-1000.974512
+Number of Vertices:30
+-1152.144910
+Number of Vertices:30
+-1073.738737
+Number of Vertices:30
+-1151.140170
+Number of Vertices:30
+-1363.269008
+Number of Vertices:30
+-1127.083685
+Number of Vertices:30
+-1239.574805
+Number of Vertices:30
+-941.687067
+Number of Vertices:30
+-1155.654473
+Number of Vertices:30
+-1351.378612
+Number of Vertices:30
+-1216.575266
+Number of Vertices:30
+-1299.857768
+Number of Vertices:30
+-1038.801341
+Number of Vertices:30
+-1100.492562
+Number of Vertices:30
+-1334.000239
+Number of Vertices:30
+-1241.344896
+Number of Vertices:30
+-1300.582178
+Number of Vertices:30
+-1141.667048
+Number of Vertices:30
+-1187.719042
+Number of Vertices:30
+-1022.843923
+Number of Vertices:30
+-1050.355268
+Number of Vertices:30
+-1077.580593
+Number of Vertices:30
+-1149.134709
+Number of Vertices:30
+-1053.604616
+Number of Vertices:30
+-1335.063184
+Number of Vertices:30
+-1025.544898
+Number of Vertices:30
+-1312.112449
+Number of Vertices:30
+-1420.384430
+Number of Vertices:30
+-1591.147624
+Number of Vertices:30
+-988.843934
+Number of Vertices:30
+-1286.079877
+Number of Vertices:30
+-968.016558
+Number of Vertices:30
+-1207.017700
+Number of Vertices:31
+-1173.272345
+Number of Vertices:31
+-1010.482541
+Number of Vertices:31
+-1457.447691
+Number of Vertices:31
+-1163.949356
+Number of Vertices:31
+-1400.428062
+Number of Vertices:31
+-1109.911666
+Number of Vertices:31
+-1232.637006
+Number of Vertices:31
+-1399.213711
+Number of Vertices:31
+-1447.617111
+Number of Vertices:31
+-1199.696697
+Number of Vertices:31
+-1206.926977
+Number of Vertices:31
+-1184.006574
+Number of Vertices:31
+-1339.462371
+Number of Vertices:31
+-1164.922549
+Number of Vertices:31
+-1080.870616
+Number of Vertices:31
+-1324.280840
+Number of Vertices:31
+-1127.729281
+Number of Vertices:31
+-1118.963568
+Number of Vertices:31
+-1242.703440
+Number of Vertices:31
+-1292.708053
+Number of Vertices:31
+-1344.990005
+Number of Vertices:31
+-1199.704630
+Number of Vertices:31
+-1135.433314
+Number of Vertices:31
+-1139.291802
+Number of Vertices:31
+-1242.145244
+Number of Vertices:31
+-1166.695830
+Number of Vertices:31
+-898.677427
+Number of Vertices:31
+-1281.369268
+Number of Vertices:31
+-1153.162458
+Number of Vertices:31
+-1066.917213
+Number of Vertices:31
+-1422.353281
+Number of Vertices:31
+-1137.801881
+Number of Vertices:31
+-1224.368204
+Number of Vertices:31
+-1130.636222
+Number of Vertices:31
+-1379.253292
+Number of Vertices:31
+-1525.417642
+Number of Vertices:31
+-1254.415618
+Number of Vertices:31
+-1444.167202
+Number of Vertices:31
+-1687.007797
+Number of Vertices:31
+-1217.181137
+Number of Vertices:31
+-1267.124919
+Number of Vertices:31
+-1496.617831
+Number of Vertices:31
+-1233.739525
+Number of Vertices:31
+-1040.161047
+Number of Vertices:31
+-1091.608631
+Number of Vertices:31
+-1159.974919
+Number of Vertices:31
+-1437.205113
+Number of Vertices:31
+-1092.721399
+Number of Vertices:31
+-936.877955
+Number of Vertices:31
+-1061.034200
+Number of Vertices:32
+-1243.454135
+Number of Vertices:32
+-1165.674348
+Number of Vertices:32
+-1417.372344
+Number of Vertices:32
+-1101.937654
+Number of Vertices:32
+-1457.547064
+Number of Vertices:32
+-1219.397121
+Number of Vertices:32
+-1341.436022
+Number of Vertices:32
+-1638.358288
+Number of Vertices:32
+-1369.779751
+Number of Vertices:32
+-1235.912829
+Number of Vertices:32
+-1264.664438
+Number of Vertices:32
+-1330.528717
+Number of Vertices:32
+-1218.317432
+Number of Vertices:32
+-1311.033551
+Number of Vertices:32
+-1353.865679
+Number of Vertices:32
+-1159.594596
+Number of Vertices:32
+-1455.241406
+Number of Vertices:32
+-1237.973690
+Number of Vertices:32
+-1281.728981
+Number of Vertices:32
+-1279.582337
+Number of Vertices:32
+-1116.021192
+Number of Vertices:32
+-1212.077746
+Number of Vertices:32
+-1394.258389
+Number of Vertices:32
+-1186.523913
+Number of Vertices:32
+-1490.446663
+Number of Vertices:32
+-1597.327645
+Number of Vertices:32
+-1114.270747
+Number of Vertices:32
+-1372.460765
+Number of Vertices:32
+-1414.453097
+Number of Vertices:32
+-1511.029138
+Number of Vertices:32
+-1250.052115
+Number of Vertices:32
+-1143.928982
+Number of Vertices:32
+-1566.194678
+Number of Vertices:32
+-1278.655604
+Number of Vertices:32
+-1576.582721
+Number of Vertices:32
+-1490.496892
+Number of Vertices:32
+-1401.443194
+Number of Vertices:32
+-1424.118622
+Number of Vertices:32
+-1305.463035
+Number of Vertices:32
+-1309.370287
+Number of Vertices:32
+-1261.576720
+Number of Vertices:32
+-1592.000119
+Number of Vertices:32
+-1301.662209
+Number of Vertices:32
+-1465.777537
+Number of Vertices:32
+-1463.224519
+Number of Vertices:32
+-1458.127949
+Number of Vertices:32
+-1361.697134
+Number of Vertices:32
+-1092.682498
+Number of Vertices:32
+-1234.385901
+Number of Vertices:32
+-987.372937
+Number of Vertices:33
+-1556.221094
+Number of Vertices:33
+-1742.877319
+Number of Vertices:33
+-1317.367851
+Number of Vertices:33
+-1615.341343
+Number of Vertices:33
+-1354.224486
+Number of Vertices:33
+-1425.663517
+Number of Vertices:33
+-1355.544303
+Number of Vertices:33
+-1135.442252
+Number of Vertices:33
+-1563.258351
+Number of Vertices:33
+-1153.443301
+Number of Vertices:33
+-1424.052044
+Number of Vertices:33
+-1390.087516
+Number of Vertices:33
+-1593.381923
+Number of Vertices:33
+-1616.878231
+Number of Vertices:33
+-1486.415452
+Number of Vertices:33
+-1446.009363
+Number of Vertices:33
+-1381.108173
+Number of Vertices:33
+-1558.299206
+Number of Vertices:33
+-1197.200633
+Number of Vertices:33
+-1202.958086
+Number of Vertices:33
+-1528.138378
+Number of Vertices:33
+-1193.848239
+Number of Vertices:33
+-1762.846425
+Number of Vertices:33
+-1498.008342
+Number of Vertices:33
+-1424.112921
+Number of Vertices:33
+-1654.740929
+Number of Vertices:33
+-1707.085432
+Number of Vertices:33
+-1238.525129
+Number of Vertices:33
+-1414.342415
+Number of Vertices:33
+-1506.191212
+Number of Vertices:33
+-1125.375287
+Number of Vertices:33
+-1323.372544
+Number of Vertices:33
+-1556.846039
+Number of Vertices:33
+-1524.599694
+Number of Vertices:33
+-1520.041246
+Number of Vertices:33
+-1637.135103
+Number of Vertices:33
+-1317.951851
+Number of Vertices:33
+-1420.955713
+Number of Vertices:33
+-1275.665346
+Number of Vertices:33
+-1600.381030
+Number of Vertices:33
+-1601.404696
+Number of Vertices:33
+-1705.629893
+Number of Vertices:33
+-1369.713237
+Number of Vertices:33
+-1568.621426
+Number of Vertices:33
+-1450.250865
+Number of Vertices:33
+-1262.943448
+Number of Vertices:33
+-1343.706194
+Number of Vertices:33
+-1308.627077
+Number of Vertices:33
+-1225.949289
+Number of Vertices:33
+-1554.942761
+Number of Vertices:34
+-1568.706878
+Number of Vertices:34
+-1478.886109
+Number of Vertices:34
+-1433.332871
+Number of Vertices:34
+-1427.224397
+Number of Vertices:34
+-1545.062875
+Number of Vertices:34
+-1554.976631
+Number of Vertices:34
+-1363.894213
+Number of Vertices:34
+-1473.842376
+Number of Vertices:34
+-1354.788719
+Number of Vertices:34
+-1391.240483
+Number of Vertices:34
+-1439.503882
+Number of Vertices:34
+-1546.867399
+Number of Vertices:34
+-1371.694306
+Number of Vertices:34
+-1448.072983
+Number of Vertices:34
+-1325.399673
+Number of Vertices:34
+-1444.506250
+Number of Vertices:34
+-1344.534672
+Number of Vertices:34
+-1559.817427
+Number of Vertices:34
+-1399.075888
+Number of Vertices:34
+-1312.438526
+Number of Vertices:34
+-1296.958576
+Number of Vertices:34
+-1623.784224
+Number of Vertices:34
+-1556.220271
+Number of Vertices:34
+-1693.682490
+Number of Vertices:34
+-1399.976675
+Number of Vertices:34
+-1376.182950
+Number of Vertices:34
+-1587.572388
+Number of Vertices:34
+-1563.345745
+Number of Vertices:34
+-1326.321222
+Number of Vertices:34
+-1353.490037
+Number of Vertices:34
+-1514.189521
+Number of Vertices:34
+-1227.249206
+Number of Vertices:34
+-1469.403136
+Number of Vertices:34
+-1157.766049
+Number of Vertices:34
+-1503.513753
+Number of Vertices:34
+-1191.475234
+Number of Vertices:34
+-1769.150477
+Number of Vertices:34
+-1146.794231
+Number of Vertices:34
+-1283.120175
+Number of Vertices:34
+-1624.064505
+Number of Vertices:34
+-1388.659854
+Number of Vertices:34
+-1600.027595
+Number of Vertices:34
+-1672.041389
+Number of Vertices:34
+-1549.335560
+Number of Vertices:34
+-1350.949828
+Number of Vertices:34
+-1098.488761
+Number of Vertices:34
+-1389.309844
+Number of Vertices:34
+-1367.019884
+Number of Vertices:34
+-1709.467011
+Number of Vertices:34
+-1393.798893
+Number of Vertices:35
+-1817.249222
+Number of Vertices:35
+-1468.157701
+Number of Vertices:35
+-1587.605145
+Number of Vertices:35
+-1512.046924
+Number of Vertices:35
+-1832.649967
+Number of Vertices:35
+-1283.142935
+Number of Vertices:35
+-1482.006887
+Number of Vertices:35
+-1628.146955
+Number of Vertices:35
+-1838.718898
+Number of Vertices:35
+-1860.658105
+Number of Vertices:35
+-1032.267064
+Number of Vertices:35
+-1855.536129
+Number of Vertices:35
+-1288.773569
+Number of Vertices:35
+-1656.503203
+Number of Vertices:35
+-1655.240056
+Number of Vertices:35
+-1498.871453
+Number of Vertices:35
+-1447.537116
+Number of Vertices:35
+-1311.227762
+Number of Vertices:35
+-1523.407781
+Number of Vertices:35
+-1449.396247
+Number of Vertices:35
+-1729.308822
+Number of Vertices:35
+-1667.049926
+Number of Vertices:35
+-1197.070377
+Number of Vertices:35
+-1482.676207
+Number of Vertices:35
+-1507.126124
+Number of Vertices:35
+-1515.371953
+Number of Vertices:35
+-989.220716
+Number of Vertices:35
+-1405.001733
+Number of Vertices:35
+-1114.649141
+Number of Vertices:35
+-1766.657164
+Number of Vertices:35
+-1677.669191
+Number of Vertices:35
+-1593.394586
+Number of Vertices:35
+-1200.927430
+Number of Vertices:35
+-1598.008618
+Number of Vertices:35
+-1482.741948
+Number of Vertices:35
+-1503.824442
+Number of Vertices:35
+-1506.802982
+Number of Vertices:35
+-1569.740319
+Number of Vertices:35
+-1388.514085
+Number of Vertices:35
+-1632.046831
+Number of Vertices:35
+-1757.328400
+Number of Vertices:35
+-1642.389546
+Number of Vertices:35
+-1568.350609
+Number of Vertices:35
+-1431.481746
+Number of Vertices:35
+-1515.680529
+Number of Vertices:35
+-1231.153568
+Number of Vertices:35
+-1428.914936
+Number of Vertices:35
+-1499.422228
+Number of Vertices:35
+-1583.129434
+Number of Vertices:35
+-1425.342847
+Number of Vertices:36
+-1392.833403
+Number of Vertices:36
+-1743.040245
+Number of Vertices:36
+-1777.959334
+Number of Vertices:36
+-1650.287929
+Number of Vertices:36
+-1827.680780
+Number of Vertices:36
+-1590.342903
+Number of Vertices:36
+-1586.229823
+Number of Vertices:36
+-1359.501165
+Number of Vertices:36
+-1499.291701
+Number of Vertices:36
+-1563.768752
+Number of Vertices:36
+-1941.977577
+Number of Vertices:36
+-1264.069857
+Number of Vertices:36
+-1706.743583
+Number of Vertices:36
+-1734.956726
+Number of Vertices:36
+-1656.043000
+Number of Vertices:36
+-1796.202885
+Number of Vertices:36
+-1261.490912
+Number of Vertices:36
+-1169.207648
+Number of Vertices:36
+-1841.388929
+Number of Vertices:36
+-1608.145656
+Number of Vertices:36
+-1725.301107
+Number of Vertices:36
+-1553.324333
+Number of Vertices:36
+-1478.884200
+Number of Vertices:36
+-1625.763973
+Number of Vertices:36
+-1618.986119
+Number of Vertices:36
+-1809.089885
+Number of Vertices:36
+-1618.412332
+Number of Vertices:36
+-1664.443684
+Number of Vertices:36
+-1565.286522
+Number of Vertices:36
+-1233.676498
+Number of Vertices:36
+-1508.749989
+Number of Vertices:36
+-1493.309617
+Number of Vertices:36
+-1875.116616
+Number of Vertices:36
+-1513.515269
+Number of Vertices:36
+-1870.570797
+Number of Vertices:36
+-1728.677521
+Number of Vertices:36
+-1454.042474
+Number of Vertices:36
+-1806.819712
+Number of Vertices:36
+-1805.764240
+Number of Vertices:36
+-1827.815962
+Number of Vertices:36
+-1754.644680
+Number of Vertices:36
+-1592.184423
+Number of Vertices:36
+-1468.529124
+Number of Vertices:36
+-1519.789910
+Number of Vertices:36
+-1503.599339
+Number of Vertices:36
+-1548.563265
+Number of Vertices:36
+-1664.743439
+Number of Vertices:36
+-1520.768596
+Number of Vertices:36
+-1815.779557
+Number of Vertices:36
+-1541.088310
+Number of Vertices:37
+-1881.943623
+Number of Vertices:37
+-1622.052443
+Number of Vertices:37
+-1712.171464
+Number of Vertices:37
+-1679.330494
+Number of Vertices:37
+-1580.345670
+Number of Vertices:37
+-1525.244091
+Number of Vertices:37
+-2003.289740
+Number of Vertices:37
+-1357.710303
+Number of Vertices:37
+-1490.277268
+Number of Vertices:37
+-1390.050652
+Number of Vertices:37
+-1609.853468
+Number of Vertices:37
+-2047.806654
+Number of Vertices:37
+-1775.476001
+Number of Vertices:37
+-1629.051451
+Number of Vertices:37
+-1776.845344
+Number of Vertices:37
+-2116.947483
+Number of Vertices:37
+-1481.477285
+Number of Vertices:37
+-1636.769714
+Number of Vertices:37
+-1497.227252
+Number of Vertices:37
+-1302.369143
+Number of Vertices:37
+-1696.775735
+Number of Vertices:37
+-1712.238985
+Number of Vertices:37
+-1457.006680
+Number of Vertices:37
+-1475.683554
+Number of Vertices:37
+-1822.801297
+Number of Vertices:37
+-1560.512910
+Number of Vertices:37
+-1807.783308
+Number of Vertices:37
+-1549.204583
+Number of Vertices:37
+-1631.709079
+Number of Vertices:37
+-1409.342273
+Number of Vertices:37
+-1606.151734
+Number of Vertices:37
+-1425.645734
+Number of Vertices:37
+-1636.886712
+Number of Vertices:37
+-1959.189665
+Number of Vertices:37
+-1625.342827
+Number of Vertices:37
+-1755.114056
+Number of Vertices:37
+-1672.295690
+Number of Vertices:37
+-1767.283368
+Number of Vertices:37
+-1442.529734
+Number of Vertices:37
+-1481.224040
+Number of Vertices:37
+-1770.043768
+Number of Vertices:37
+-1350.884487
+Number of Vertices:37
+-1587.107609
+Number of Vertices:37
+-1890.808004
+Number of Vertices:37
+-1860.559320
+Number of Vertices:37
+-1745.199434
+Number of Vertices:37
+-1725.260919
+Number of Vertices:37
+-1714.575041
+Number of Vertices:37
+-1754.135853
+Number of Vertices:37
+-1901.217241
+Number of Vertices:38
+-1747.543813
+Number of Vertices:38
+-1759.694497
+Number of Vertices:38
+-1904.255186
+Number of Vertices:38
+-1591.468681
+Number of Vertices:38
+-1470.757152
+Number of Vertices:38
+-1728.360392
+Number of Vertices:38
+-1818.786283
+Number of Vertices:38
+-1625.822271
+Number of Vertices:38
+-1674.495684
+Number of Vertices:38
+-1570.533949
+Number of Vertices:38
+-1286.478839
+Number of Vertices:38
+-1945.435710
+Number of Vertices:38
+-1922.552475
+Number of Vertices:38
+-1786.621767
+Number of Vertices:38
+-1772.341261
+Number of Vertices:38
+-1556.659633
+Number of Vertices:38
+-1522.555869
+Number of Vertices:38
+-1682.817984
+Number of Vertices:38
+-1934.491501
+Number of Vertices:38
+-1800.453707
+Number of Vertices:38
+-1702.336558
+Number of Vertices:38
+-1495.637801
+Number of Vertices:38
+-1787.847853
+Number of Vertices:38
+-1858.182590
+Number of Vertices:38
+-1673.610364
+Number of Vertices:38
+-1400.715117
+Number of Vertices:38
+-1779.154047
+Number of Vertices:38
+-1841.490618
+Number of Vertices:38
+-1541.572090
+Number of Vertices:38
+-1685.482798
+Number of Vertices:38
+-1955.093558
+Number of Vertices:38
+-1674.598972
+Number of Vertices:38
+-2019.057929
+Number of Vertices:38
+-1745.979239
+Number of Vertices:38
+-1724.080905
+Number of Vertices:38
+-1807.425605
+Number of Vertices:38
+-1636.968132
+Number of Vertices:38
+-1703.638178
+Number of Vertices:38
+-1457.170721
+Number of Vertices:38
+-1538.979525
+Number of Vertices:38
+-1564.829510
+Number of Vertices:38
+-1629.607838
+Number of Vertices:38
+-1524.790441
+Number of Vertices:38
+-1367.200872
+Number of Vertices:38
+-1580.006879
+Number of Vertices:38
+-1683.098071
+Number of Vertices:38
+-1843.805680
+Number of Vertices:38
+-1693.325597
+Number of Vertices:38
+-1596.227527
+Number of Vertices:38
+-1547.853588
+Number of Vertices:39
+-1465.834728
+Number of Vertices:39
+-1810.222808
+Number of Vertices:39
+-1905.080989
+Number of Vertices:39
+-1941.237972
+Number of Vertices:39
+-1670.089079
+Number of Vertices:39
+-1848.818744
+Number of Vertices:39
+-1691.794876
+Number of Vertices:39
+-1669.257094
+Number of Vertices:39
+-1767.012261
+Number of Vertices:39
+-1944.442240
+Number of Vertices:39
+-1628.217285
+Number of Vertices:39
+-2277.280109
+Number of Vertices:39
+-1911.841937
+Number of Vertices:39
+-1870.489969
+Number of Vertices:39
+-1763.567390
+Number of Vertices:39
+-1957.941765
+Number of Vertices:39
+-1989.951801
+Number of Vertices:39
+-1683.401815
+Number of Vertices:39
+-2202.677675
+Number of Vertices:39
+-1857.348911
+Number of Vertices:39
+-1816.657760
+Number of Vertices:39
+-1798.992587
+Number of Vertices:39
+-2130.746558
+Number of Vertices:39
+-1753.930690
+Number of Vertices:39
+-1789.861913
+Number of Vertices:39
+-1601.409947
+Number of Vertices:39
+-1946.207778
+Number of Vertices:39
+-1649.619759
+Number of Vertices:39
+-1739.372907
+Number of Vertices:39
+-2000.449499
+Number of Vertices:39
+-1891.110791
+Number of Vertices:39
+-1664.044286
+Number of Vertices:39
+-1894.330011
+Number of Vertices:39
+-1655.675337
+Number of Vertices:39
+-1578.913058
+Number of Vertices:39
+-1685.279218
+Number of Vertices:39
+-1729.343832
+Number of Vertices:39
+-1850.615985
+Number of Vertices:39
+-1825.593969
+Number of Vertices:39
+-1642.985548
+Number of Vertices:39
+-1396.849599
+Number of Vertices:39
+-1510.400161
+Number of Vertices:39
+-1834.529663
+Number of Vertices:39
+-1800.143127
+Number of Vertices:39
+-1877.592047
+Number of Vertices:39
+-1836.663548
+Number of Vertices:39
+-1642.047206
+Number of Vertices:39
+-1828.560060
+Number of Vertices:39
+-1787.216809
+Number of Vertices:39
+-2044.762932
+Number of Vertices:40
+-1612.464168
+Number of Vertices:40
+-1867.349776
+Number of Vertices:40
+-1698.860546
+Number of Vertices:40
+-2216.887406
+Number of Vertices:40
+-1691.685921
+Number of Vertices:40
+-1850.761266
+Number of Vertices:40
+-1534.663398
+Number of Vertices:40
+-1846.082305
+Number of Vertices:40
+-1812.118624
+Number of Vertices:40
+-1981.703890
+Number of Vertices:40
+-1810.277607
+Number of Vertices:40
+-1907.006992
+Number of Vertices:40
+-2078.908622
+Number of Vertices:40
+-1791.135056
+Number of Vertices:40
+-1886.062543
+Number of Vertices:40
+-1808.515694
+Number of Vertices:40
+-1768.223064
+Number of Vertices:40
+-1867.477722
+Number of Vertices:40
+-1847.362501
+Number of Vertices:40
+-2164.893762
+Number of Vertices:40
+-2067.995064
+Number of Vertices:40
+-1655.828296
+Number of Vertices:40
+-1929.886201
+Number of Vertices:40
+-1580.733582
+Number of Vertices:40
+-1831.630807
+Number of Vertices:40
+-1735.850900
+Number of Vertices:40
+-1943.405877
+Number of Vertices:40
+-2015.683009
+Number of Vertices:40
+-2031.381723
+Number of Vertices:40
+-1779.042495
+Number of Vertices:40
+-1587.113547
+Number of Vertices:40
+-1669.996065
+Number of Vertices:40
+-1825.881582
+Number of Vertices:40
+-1994.969136
+Number of Vertices:40
+-1684.987704
+Number of Vertices:40
+-2032.483521
+Number of Vertices:40
+-1607.395189
+Number of Vertices:40
+-1881.011987
+Number of Vertices:40
+-1718.588109
+Number of Vertices:40
+-1559.769852
+Number of Vertices:40
+-1836.521171
+Number of Vertices:40
+-1817.222167
+Number of Vertices:40
+-1780.708796
+Number of Vertices:40
+-1595.684286
+Number of Vertices:40
+-1966.401302
+Number of Vertices:40
+-1937.551325
+Number of Vertices:40
+-1726.426647
+Number of Vertices:40
+-1725.935146
+Number of Vertices:40
+-2229.877634
+Number of Vertices:40
+-1783.304489
+Number of Vertices:41
+-2077.778975
+Number of Vertices:41
+-2067.941057
+Number of Vertices:41
+-1666.389615
+Number of Vertices:41
+-1883.367970
+Number of Vertices:41
+-2021.208888
+Number of Vertices:41
+-1612.012487
+Number of Vertices:41
+-1738.673836
+Number of Vertices:41
+-2137.401310
+Number of Vertices:41
+-2123.034070
+Number of Vertices:41
+-1970.171302
+Number of Vertices:41
+-2273.229404
+Number of Vertices:41
+-2007.861560
+Number of Vertices:41
+-1892.858460
+Number of Vertices:41
+-2198.553935
+Number of Vertices:41
+-1776.211162
+Number of Vertices:41
+-1994.730965
+Number of Vertices:41
+-2106.152918
+Number of Vertices:41
+-2207.979020
+Number of Vertices:41
+-2114.129177
+Number of Vertices:41
+-1836.392002
+Number of Vertices:41
+-1970.494285
+Number of Vertices:41
+-2147.559882
+Number of Vertices:41
+-1690.947092
+Number of Vertices:41
+-2198.738054
+Number of Vertices:41
+-2016.226911
+Number of Vertices:41
+-1913.894815
+Number of Vertices:41
+-2040.101849
+Number of Vertices:41
+-1974.739353
+Number of Vertices:41
+-2093.681090
+Number of Vertices:41
+-1754.639573
+Number of Vertices:41
+-2011.169877
+Number of Vertices:41
+-2042.708136
+Number of Vertices:41
+-1840.396381
+Number of Vertices:41
+-1760.101346
+Number of Vertices:41
+-1771.189893
+Number of Vertices:41
+-2010.301763
+Number of Vertices:41
+-1832.283844
+Number of Vertices:41
+-1673.570775
+Number of Vertices:41
+-2007.212891
+Number of Vertices:41
+-2107.973013
+Number of Vertices:41
+-1958.074643
+Number of Vertices:41
+-2079.599321
+Number of Vertices:41
+-1898.229740
+Number of Vertices:41
+-2108.351033
+Number of Vertices:41
+-1742.414840
+Number of Vertices:41
+-1743.737609
+Number of Vertices:41
+-1846.533592
+Number of Vertices:41
+-2289.552903
+Number of Vertices:41
+-1968.732358
+Number of Vertices:41
+-2049.458358
+Number of Vertices:42
+-2100.615768
+Number of Vertices:42
+-2172.900426
+Number of Vertices:42
+-1821.484691
+Number of Vertices:42
+-2569.019422
+Number of Vertices:42
+-2000.364955
+Number of Vertices:42
+-1789.227572
+Number of Vertices:42
+-2296.177211
+Number of Vertices:42
+-1773.455784
+Number of Vertices:42
+-2245.743254
+Number of Vertices:42
+-1903.986094
+Number of Vertices:42
+-1793.159663
+Number of Vertices:42
+-2149.467707
+Number of Vertices:42
+-2000.462622
+Number of Vertices:42
+-1839.036886
+Number of Vertices:42
+-2238.293702
+Number of Vertices:42
+-2050.868340
+Number of Vertices:42
+-2162.992228
+Number of Vertices:42
+-1841.655476
+Number of Vertices:42
+-1711.257870
+Number of Vertices:42
+-1805.984087
+Number of Vertices:42
+-2068.345323
+Number of Vertices:42
+-2063.767300
+Number of Vertices:42
+-1796.365875
+Number of Vertices:42
+-1776.056704
+Number of Vertices:42
+-1945.728544
+Number of Vertices:42
+-2040.424922
+Number of Vertices:42
+-2241.051600
+Number of Vertices:42
+-2195.276264
+Number of Vertices:42
+-2395.822589
+Number of Vertices:42
+-2381.603586
+Number of Vertices:42
+-1943.337817
+Number of Vertices:42
+-1910.031103
+Number of Vertices:42
+-2175.674155
+Number of Vertices:42
+-1959.562719
+Number of Vertices:42
+-1900.627098
+Number of Vertices:42
+-1815.331210
+Number of Vertices:42
+-2009.634337
+Number of Vertices:42
+-2219.133122
+Number of Vertices:42
+-1804.484202
+Number of Vertices:42
+-2008.981887
+Number of Vertices:42
+-1835.836800
+Number of Vertices:42
+-2245.712808
+Number of Vertices:42
+-1808.787566
+Number of Vertices:42
+-2100.431472
+Number of Vertices:42
+-1953.525926
+Number of Vertices:42
+-2109.770290
+Number of Vertices:42
+-1961.571878
+Number of Vertices:42
+-2074.976331
+Number of Vertices:42
+-2241.939347
+Number of Vertices:42
+-2151.979103
+Number of Vertices:43
+-1954.335996
+Number of Vertices:43
+-2086.656109
+Number of Vertices:43
+-2024.176591
+Number of Vertices:43
+-2079.739532
+Number of Vertices:43
+-2005.644182
+Number of Vertices:43
+-2120.967234
+Number of Vertices:43
+-2315.619956
+Number of Vertices:43
+-1990.844677
+Number of Vertices:43
+-1936.110208
+Number of Vertices:43
+-2253.707825
+Number of Vertices:43
+-1680.916468
+Number of Vertices:43
+-2151.273619
+Number of Vertices:43
+-2201.496666
+Number of Vertices:43
+-1987.684539
+Number of Vertices:43
+-2027.851483
+Number of Vertices:43
+-2194.728018
+Number of Vertices:43
+-2286.900686
+Number of Vertices:43
+-1799.472650
+Number of Vertices:43
+-2181.628064
+Number of Vertices:43
+-1781.340088
+Number of Vertices:43
+-2035.562530
+Number of Vertices:43
+-2129.675639
+Number of Vertices:43
+-2043.224854
+Number of Vertices:43
+-1916.512476
+Number of Vertices:43
+-2076.878178
+Number of Vertices:43
+-2229.933494
+Number of Vertices:43
+-2687.780148
+Number of Vertices:43
+-2048.881643
+Number of Vertices:43
+-2431.969778
+Number of Vertices:43
+-2381.645639
+Number of Vertices:43
+-2159.447096
+Number of Vertices:43
+-1859.328600
+Number of Vertices:43
+-2254.793368
+Number of Vertices:43
+-2266.668327
+Number of Vertices:43
+-1964.590555
+Number of Vertices:43
+-2172.574751
+Number of Vertices:43
+-2022.197079
+Number of Vertices:43
+-1894.137630
+Number of Vertices:43
+-1964.894734
+Number of Vertices:43
+-2263.856628
+Number of Vertices:43
+-2257.272224
+Number of Vertices:43
+-2094.073024
+Number of Vertices:43
+-2093.516527
+Number of Vertices:43
+-2316.485778
+Number of Vertices:43
+-1866.207963
+Number of Vertices:43
+-2442.380875
+Number of Vertices:43
+-2523.835526
+Number of Vertices:43
+-2034.584362
+Number of Vertices:43
+-1909.115456
+Number of Vertices:43
+-2162.499211
+Number of Vertices:44
+-1989.543563
+Number of Vertices:44
+-1942.393157
+Number of Vertices:44
+-2389.671541
+Number of Vertices:44
+-1972.692638
+Number of Vertices:44
+-2066.346960
+Number of Vertices:44
+-1991.339460
+Number of Vertices:44
+-2297.285117
+Number of Vertices:44
+-2010.754428
+Number of Vertices:44
+-2166.369970
+Number of Vertices:44
+-2008.119034
+Number of Vertices:44
+-2183.204972
+Number of Vertices:44
+-2175.860562
+Number of Vertices:44
+-2273.808354
+Number of Vertices:44
+-2269.363310
+Number of Vertices:44
+-1903.754709
+Number of Vertices:44
+-2658.210871
+Number of Vertices:44
+-1927.338767
+Number of Vertices:44
+-2167.648390
+Number of Vertices:44
+-2126.661582
+Number of Vertices:44
+-1967.837127
+Number of Vertices:44
+-1779.313169
+Number of Vertices:44
+-2304.974424
+Number of Vertices:44
+-1986.282418
+Number of Vertices:44
+-2096.059491
+Number of Vertices:44
+-2018.425117
+Number of Vertices:44
+-2115.601672
+Number of Vertices:44
+-2262.954690
+Number of Vertices:44
+-2067.103619
+Number of Vertices:44
+-2602.201432
+Number of Vertices:44
+-1573.392670
+Number of Vertices:44
+-1950.281136
+Number of Vertices:44
+-2125.557929
+Number of Vertices:44
+-2391.571919
+Number of Vertices:44
+-1708.750983
+Number of Vertices:44
+-2360.549201
+Number of Vertices:44
+-2482.897322
+Number of Vertices:44
+-2216.244907
+Number of Vertices:44
+-1879.083815
+Number of Vertices:44
+-1510.320437
+Number of Vertices:44
+-2210.135671
+Number of Vertices:44
+-1974.324646
+Number of Vertices:44
+-2163.254437
+Number of Vertices:44
+-2130.674317
+Number of Vertices:44
+-2148.580966
+Number of Vertices:44
+-2081.415378
+Number of Vertices:44
+-2120.551487
+Number of Vertices:44
+-2452.728958
+Number of Vertices:44
+-2030.929309
+Number of Vertices:44
+-1781.858038
+Number of Vertices:44
+-1870.828361
+Number of Vertices:45
+-2132.562841
+Number of Vertices:45
+-2203.470455
+Number of Vertices:45
+-2137.695061
+Number of Vertices:45
+-2012.234445
+Number of Vertices:45
+-2167.288592
+Number of Vertices:45
+-2013.002832
+Number of Vertices:45
+-2301.825261
+Number of Vertices:45
+-2147.437118
+Number of Vertices:45
+-1969.104056
+Number of Vertices:45
+-2148.790189
+Number of Vertices:45
+-2178.825452
+Number of Vertices:45
+-2317.128556
+Number of Vertices:45
+-2475.442946
+Number of Vertices:45
+-2051.379962
+Number of Vertices:45
+-2095.645348
+Number of Vertices:45
+-2202.513629
+Number of Vertices:45
+-1996.349263
+Number of Vertices:45
+-2036.468604
+Number of Vertices:45
+-2191.643932
+Number of Vertices:45
+-2202.743224
+Number of Vertices:45
+-1965.447016
+Number of Vertices:45
+-2638.830184
+Number of Vertices:45
+-2479.473365
+Number of Vertices:45
+-2468.143453
+Number of Vertices:45
+-2300.558357
+Number of Vertices:45
+-2461.981417
+Number of Vertices:45
+-2303.760327
+Number of Vertices:45
+-2122.264001
+Number of Vertices:45
+-2289.897713
+Number of Vertices:45
+-2254.898970
+Number of Vertices:45
+-2142.494912
+Number of Vertices:45
+-2395.343127
+Number of Vertices:45
+-2016.260302
+Number of Vertices:45
+-2458.328063
+Number of Vertices:45
+-2430.648798
+Number of Vertices:45
+-1865.767111
+Number of Vertices:45
+-2109.835753
+Number of Vertices:45
+-2216.709960
+Number of Vertices:45
+-2470.971471
+Number of Vertices:45
+-2592.509460
+Number of Vertices:45
+-2202.617176
+Number of Vertices:45
+-2095.860775
+Number of Vertices:45
+-2156.829853
+Number of Vertices:45
+-2289.929500
+Number of Vertices:45
+-2153.445960
+Number of Vertices:45
+-2619.591927
+Number of Vertices:45
+-1983.086961
+Number of Vertices:45
+-2389.424507
+Number of Vertices:45
+-2291.061018
+Number of Vertices:45
+-2155.048369
+Number of Vertices:46
+-2467.362684
+Number of Vertices:46
+-2620.235112
+Number of Vertices:46
+-2513.175268
+Number of Vertices:46
+-2285.114070
+Number of Vertices:46
+-2431.830011
+Number of Vertices:46
+-2537.229646
+Number of Vertices:46
+-2222.607708
+Number of Vertices:46
+-2213.322208
+Number of Vertices:46
+-2416.775748
+Number of Vertices:46
+-2435.620811
+Number of Vertices:46
+-2428.461866
+Number of Vertices:46
+-2617.929990
+Number of Vertices:46
+-2269.671165
+Number of Vertices:46
+-2299.192459
+Number of Vertices:46
+-2480.908493
+Number of Vertices:46
+-2078.054371
+Number of Vertices:46
+-2627.671859
+Number of Vertices:46
+-2382.978933
+Number of Vertices:46
+-2426.788508
+Number of Vertices:46
+-2463.269660
+Number of Vertices:46
+-2042.436718
+Number of Vertices:46
+-2170.581587
+Number of Vertices:46
+-2518.543476
+Number of Vertices:46
+-2261.946392
+Number of Vertices:46
+-2159.878237
+Number of Vertices:46
+-2113.298300
+Number of Vertices:46
+-2606.493529
+Number of Vertices:46
+-2652.349245
+Number of Vertices:46
+-2390.395250
+Number of Vertices:46
+-2362.279508
+Number of Vertices:46
+-2252.274539
+Number of Vertices:46
+-2401.553950
+Number of Vertices:46
+-1979.024617
+Number of Vertices:46
+-2568.283791
+Number of Vertices:46
+-2081.906062
+Number of Vertices:46
+-1988.009610
+Number of Vertices:46
+-2229.809379
+Number of Vertices:46
+-2698.021541
+Number of Vertices:46
+-2651.353626
+Number of Vertices:46
+-2654.860436
+Number of Vertices:46
+-2330.320925
+Number of Vertices:46
+-2686.256360
+Number of Vertices:46
+-2133.953632
+Number of Vertices:46
+-2333.641129
+Number of Vertices:46
+-2194.325011
+Number of Vertices:46
+-2305.729962
+Number of Vertices:46
+-2378.315991
+Number of Vertices:46
+-2041.725418
+Number of Vertices:46
+-2448.638955
+Number of Vertices:46
+-2397.565565
+Number of Vertices:47
+-2658.508647
+Number of Vertices:47
+-1976.328040
+Number of Vertices:47
+-2113.440938
+Number of Vertices:47
+-2707.492612
+Number of Vertices:47
+-2369.455638
+Number of Vertices:47
+-2278.559052
+Number of Vertices:47
+-2325.667893
+Number of Vertices:47
+-2562.054201
+Number of Vertices:47
+-2432.132807
+Number of Vertices:47
+-2199.905519
+Number of Vertices:47
+-2558.940176
+Number of Vertices:47
+-2142.520819
+Number of Vertices:47
+-2088.024602
+Number of Vertices:47
+-2200.826317
+Number of Vertices:47
+-2386.009800
+Number of Vertices:47
+-2369.820178
+Number of Vertices:47
+-2439.328587
+Number of Vertices:47
+-2587.714022
+Number of Vertices:47
+-2368.402173
+Number of Vertices:47
+-2346.834574
+Number of Vertices:47
+-2299.565898
+Number of Vertices:47
+-2360.082734
+Number of Vertices:47
+-2223.357791
+Number of Vertices:47
+-2509.390421
+Number of Vertices:47
+-2178.103440
+Number of Vertices:47
+-2350.729157
+Number of Vertices:47
+-2339.845165
+Number of Vertices:47
+-2215.306737
+Number of Vertices:47
+-2276.040036
+Number of Vertices:47
+-2576.628823
+Number of Vertices:47
+-2315.296902
+Number of Vertices:47
+-2204.625802
+Number of Vertices:47
+-2711.433514
+Number of Vertices:47
+-2556.374171
+Number of Vertices:47
+-2351.395760
+Number of Vertices:47
+-2284.755879
+Number of Vertices:47
+-2380.413807
+Number of Vertices:47
+-2229.035329
+Number of Vertices:47
+-2468.639631
+Number of Vertices:47
+-2284.642150
+Number of Vertices:47
+-2312.805685
+Number of Vertices:47
+-2511.794978
+Number of Vertices:47
+-2403.682631
+Number of Vertices:47
+-2605.838835
+Number of Vertices:47
+-2559.754197
+Number of Vertices:47
+-2294.028446
+Number of Vertices:47
+-2265.723734
+Number of Vertices:47
+-2243.472697
+Number of Vertices:47
+-2453.940307
+Number of Vertices:47
+-2476.098391
+Number of Vertices:48
+-2576.555832
+Number of Vertices:48
+-2315.727954
+Number of Vertices:48
+-2301.692079
+Number of Vertices:48
+-2222.241250
+Number of Vertices:48
+-2653.541286
+Number of Vertices:48
+-2639.862653
+Number of Vertices:48
+-2357.659162
+Number of Vertices:48
+-2781.862089
+Number of Vertices:48
+-2043.834834
+Number of Vertices:48
+-2549.616810
+Number of Vertices:48
+-2454.497878
+Number of Vertices:48
+-2775.277539
+Number of Vertices:48
+-2515.918679
+Number of Vertices:48
+-2436.384905
+Number of Vertices:48
+-2394.170038
+Number of Vertices:48
+-2510.503956
+Number of Vertices:48
+-2412.875981
+Number of Vertices:48
+-2037.376712
+Number of Vertices:48
+-2808.966996
+Number of Vertices:48
+-2260.081203
+Number of Vertices:48
+-2649.258147
+Number of Vertices:48
+-2415.275285
+Number of Vertices:48
+-2231.260442
+Number of Vertices:48
+-2038.557766
+Number of Vertices:48
+-2218.732548
+Number of Vertices:48
+-2338.917716
+Number of Vertices:48
+-2593.585002
+Number of Vertices:48
+-2267.221639
+Number of Vertices:48
+-2246.078943
+Number of Vertices:48
+-2619.623914
+Number of Vertices:48
+-2428.981870
+Number of Vertices:48
+-2140.642241
+Number of Vertices:48
+-2054.563819
+Number of Vertices:48
+-2510.027028
+Number of Vertices:48
+-2566.528995
+Number of Vertices:48
+-2362.612377
+Number of Vertices:48
+-2657.113782
+Number of Vertices:48
+-2408.591088
+Number of Vertices:48
+-2412.572544
+Number of Vertices:48
+-2333.403172
+Number of Vertices:48
+-2293.643647
+Number of Vertices:48
+-2138.430158
+Number of Vertices:48
+-2376.571582
+Number of Vertices:48
+-2704.351604
+Number of Vertices:48
+-2771.769534
+Number of Vertices:48
+-2647.668926
+Number of Vertices:48
+-1996.889343
+Number of Vertices:48
+-2540.498123
+Number of Vertices:48
+-2490.117960
+Number of Vertices:48
+-2337.467908
+Number of Vertices:49
+-2682.186337
+Number of Vertices:49
+-2521.082297
+Number of Vertices:49
+-2585.638612
+Number of Vertices:49
+-2369.025675
+Number of Vertices:49
+-2517.465026
+Number of Vertices:49
+-2592.199345
+Number of Vertices:49
+-1943.795828
+Number of Vertices:49
+-2578.389230
+Number of Vertices:49
+-2515.654529
+Number of Vertices:49
+-2463.775923
+Number of Vertices:49
+-2614.893362
+Number of Vertices:49
+-2545.415968
+Number of Vertices:49
+-2283.153667
+Number of Vertices:49
+-2388.349291
+Number of Vertices:49
+-1932.485540
+Number of Vertices:49
+-2755.067817
+Number of Vertices:49
+-2842.593851
+Number of Vertices:49
+-2690.060472
+Number of Vertices:49
+-2450.999675
+Number of Vertices:49
+-2499.611026
+Number of Vertices:49
+-2665.800784
+Number of Vertices:49
+-2594.525331
+Number of Vertices:49
+-2818.384839
+Number of Vertices:49
+-2500.885530
+Number of Vertices:49
+-2561.680280
+Number of Vertices:49
+-2401.530029
+Number of Vertices:49
+-2504.828530
+Number of Vertices:49
+-2334.125359
+Number of Vertices:49
+-2418.673858
+Number of Vertices:49
+-2471.234947
+Number of Vertices:49
+-2411.405345
+Number of Vertices:49
+-3091.160335
+Number of Vertices:49
+-2684.342651
+Number of Vertices:49
+-2113.528163
+Number of Vertices:49
+-2799.381013
+Number of Vertices:49
+-2504.704926
+Number of Vertices:49
+-2196.732025
+Number of Vertices:49
+-2455.937451
+Number of Vertices:49
+-2651.342272
+Number of Vertices:49
+-2687.022428
+Number of Vertices:49
+-2448.620146
+Number of Vertices:49
+-2977.668191
+Number of Vertices:49
+-2271.147317
+Number of Vertices:49
+-2413.215741
+Number of Vertices:49
+-2657.232865
+Number of Vertices:49
+-2490.902437
+Number of Vertices:49
+-2491.637045
+Number of Vertices:49
+-2648.331063
+Number of Vertices:49
+-2891.486881
+Number of Vertices:49
+-2619.963124
+Number of Vertices:50
+-2615.102077
+Number of Vertices:50
+-2724.493902
+Number of Vertices:50
+-2233.640751
+Number of Vertices:50
+-2123.614368
+Number of Vertices:50
+-2690.322808
+Number of Vertices:50
+-2446.356158
+Number of Vertices:50
+-2346.350905
+Number of Vertices:50
+-2577.118495
+Number of Vertices:50
+-2527.069009
+Number of Vertices:50
+-2546.211052
+Number of Vertices:50
+-2386.296979
+Number of Vertices:50
+-2747.097234
+Number of Vertices:50
+-2723.409886
+Number of Vertices:50
+-2672.352283
+Number of Vertices:50
+-2699.049690
+Number of Vertices:50
+-2661.450429
+Number of Vertices:50
+-2517.291138
+Number of Vertices:50
+-2651.366405
+Number of Vertices:50
+-2618.463592
+Number of Vertices:50
+-2782.201005
+Number of Vertices:50
+-2210.802795
+Number of Vertices:50
+-2565.430525
+Number of Vertices:50
+-2634.324563
+Number of Vertices:50
+-3146.407976
+Number of Vertices:50
+-2652.746924
+Number of Vertices:50
+-2623.404579
+Number of Vertices:50
+-2575.864788
+Number of Vertices:50
+-2739.651056
+Number of Vertices:50
+-2395.015546
+Number of Vertices:50
+-2453.206991
+Number of Vertices:50
+-2583.757124
+Number of Vertices:50
+-2565.393043
+Number of Vertices:50
+-2605.797965
+Number of Vertices:50
+-2430.045981
+Number of Vertices:50
+-2268.801724
+Number of Vertices:50
+-2757.779846
+Number of Vertices:50
+-2796.749540
+Number of Vertices:50
+-2774.596058
+Number of Vertices:50
+-2718.621491
+Number of Vertices:50
+-2463.186136
+Number of Vertices:50
+-2633.077102
+Number of Vertices:50
+-2527.654844
+Number of Vertices:50
+-2532.641352
+Number of Vertices:50
+-2632.446491
+Number of Vertices:50
+-2850.403743
+Number of Vertices:50
+-2345.066580
+Number of Vertices:50
+-2499.533398
+Number of Vertices:50
+-2516.764680
+Number of Vertices:50
+-2805.374895
+Number of Vertices:50
+-2407.045909
